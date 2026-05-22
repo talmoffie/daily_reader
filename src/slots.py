@@ -12,13 +12,21 @@ HOUR_TO_SLOT = {
     19: "bonus",                 # 22:00
 }
 
-DEFAULT_SLOT = "university_science_a"
-
 
 def current_slot(now: datetime | None = None) -> str:
-    """Map the current UTC hour to a slot id. Falls back to DEFAULT_SLOT."""
+    """Map the current UTC hour to a slot id.
+
+    Exact-hour match wins. But GitHub cron is frequently delayed by hours, so a
+    run that fires at an unmapped hour must NOT blindly default — it should post
+    the slot for the most recent scheduled hour at-or-before now (i.e. the slot
+    that was *due*). Before the day's first slot, wrap to the last slot.
+    """
     now = now or datetime.now(timezone.utc)
-    return HOUR_TO_SLOT.get(now.hour, DEFAULT_SLOT)
+    hour = now.hour
+    scheduled_hours = sorted(HOUR_TO_SLOT)
+    due = [h for h in scheduled_hours if h <= hour]
+    chosen_hour = due[-1] if due else scheduled_hours[-1]
+    return HOUR_TO_SLOT[chosen_hour]
 
 
 def rotate_pool(pool: list[dict], last_used_id: str | None) -> list[dict]:
