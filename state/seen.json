@@ -2,9 +2,13 @@
   "sources": {
     "quanta_physics": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/"
+    ],
+    "ieee_robotics": [
+      "https://spectrum.ieee.org/open-source-robot-ai-platforms"
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_physics"
+    "university_science_a": "quanta_physics",
+    "university_science_b": "ieee_robotics"
   }
 }
