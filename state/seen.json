@@ -11,11 +11,14 @@
     ],
     "physorg": [
       "https://phys.org/news/2026-05-rice-billions-people-role-fueling.html"
+    ],
+    "nasa_news": [
+      "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg"
+    "sat_science": "nasa_news"
   }
 }
