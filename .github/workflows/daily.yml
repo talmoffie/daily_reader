@@ -1,0 +1,41 @@
+name: sat-reader-bot
+
+on:
+  workflow_dispatch: {}          # manual trigger for testing
+  schedule:
+    - cron: "0 5 * * *"          # 08:00 Jerusalem - university science A
+    - cron: "0 9 * * *"          # 12:00 - university science B
+    - cron: "0 13 * * *"         # 16:00 - SAT science
+    - cron: "0 17 * * *"         # 20:00 - history / other
+    - cron: "0 19 * * *"         # 22:00 - bonus
+
+permissions:
+  contents: write                # needed to commit state back (dedupe + keepalive)
+
+concurrency:
+  group: sat-reader-bot
+  cancel-in-progress: false
+
+jobs:
+  drop:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run drop
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python src/main.py
+      - name: Commit state (dedupe + keepalive)
+        run: |
+          git config user.name  "sat-reader-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/
+          git commit -m "state: $(date -u +%FT%TZ)" || echo "no changes"
+          git push

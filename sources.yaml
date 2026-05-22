@@ -1,0 +1,64 @@
+slots:
+  university_science_a:
+    difficulty: "graduate-level; assume a strong STEM reader; prioritize the rarest tier-3 academic vocabulary"
+    pool:
+      - id: quanta_physics
+        url: "https://www.quantamagazine.org/physics/feed/"
+        alt: "https://www.quantamagazine.org/feed/"
+      - id: quanta_cs
+        url: "https://www.quantamagazine.org/computer-science/feed/"
+
+  university_science_b:
+    difficulty: "graduate-level engineering; technical density expected"
+    note: "IEEE & Ars free RSS are EXCERPT-ONLY - always fetch the full page with trafilatura, never trust feed body text."
+    pool:
+      - id: ieee_robotics
+        url: "https://spectrum.ieee.org/feeds/topic/robotics.rss"
+        alt: "https://spectrum.ieee.org/rss/fulltext"
+      - id: ieee_aerospace
+        url: "https://spectrum.ieee.org/feeds/topic/aerospace.rss"
+      - id: ieee_ai
+        url: "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss"
+
+  sat_science:
+    difficulty: "Calibrate to a hard Digital SAT science passage (~1500-1550 level). Dense, formal, but realistic exam length."
+    pool:
+      - id: physorg
+        url: "https://phys.org/rss-feed/"
+        alt: "https://phys.org/rss-feed/physics-news/"
+      - id: nasa_news
+        url: "https://www.nasa.gov/news-release/feed/"
+        alt: "https://www.nasa.gov/technology/feed/"
+        note: "NASA is public domain - never paywalled."
+
+  history_other:
+    difficulty: "Hard SAT humanities passage (~1500-1550). Argumentative essays; vocabulary-rich."
+    pool:
+      - id: aeon
+        url: "https://aeon.co/feed.rss"
+      - id: the_conversation
+        url: "https://theconversation.com/us/articles.atom"
+        note: "Creative-Commons licensed academic writing."
+      - id: smithsonian_history
+        url: "https://www.smithsonianmag.com/rss/history/"
+
+  bonus:
+    difficulty: "advanced and fun; lean into the topic"
+    count: 2
+    pool:
+      - id: quanta_qm
+        url: "https://www.quantamagazine.org/physics/feed/"
+        topic_hint: "quantum mechanics / quantum computing"
+        priority: 1
+      - id: ieee_computing
+        url: "https://spectrum.ieee.org/feeds/topic/computing.rss"
+        topic_hint: "AI / computing"
+        priority: 2
+      - id: ieee_semiconductors
+        url: "https://spectrum.ieee.org/feeds/topic/semiconductors.rss"
+        topic_hint: "electronics / EE"
+        priority: 4
+      - id: ieee_aerospace_bonus
+        url: "https://spectrum.ieee.org/feeds/topic/aerospace.rss"
+        topic_hint: "aerospace"
+        priority: 5
