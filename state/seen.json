@@ -21,12 +21,17 @@
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/"
+    ],
+    "quanta_qm": [
+      "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation"
+    "history_other": "the_conversation",
+    "bonus": "quanta_qm"
   }
 }
