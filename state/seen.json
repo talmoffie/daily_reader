@@ -1,4 +1,10 @@
 {
-  "sources": {},
-  "last_used": {}
+  "sources": {
+    "quanta_physics": [
+      "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/"
+    ]
+  },
+  "last_used": {
+    "university_science_a": "quanta_physics"
+  }
 }
