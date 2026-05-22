@@ -5,10 +5,13 @@
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/open-source-robot-ai-platforms"
+    ],
+    "quanta_cs": [
+      "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/"
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_physics",
+    "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics"
   }
 }
