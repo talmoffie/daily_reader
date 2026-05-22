@@ -11,7 +11,7 @@ import requests
 
 log = logging.getLogger("generate")
 
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -117,14 +117,14 @@ def _call_gemini(prompt: str) -> dict | None:
         log.info("no GEMINI_API_KEY set; skipping Gemini")
         return None
     try:
-        import google.generativeai as genai
+        from google import genai
 
-        genai.configure(api_key=key)
-        model = genai.GenerativeModel(
-            GEMINI_MODEL,
-            generation_config={"response_mime_type": "application/json"},
+        client = genai.Client(api_key=key)
+        resp = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=prompt,
+            config={"response_mime_type": "application/json"},
         )
-        resp = model.generate_content(prompt)
         payload = _parse_json(resp.text)
         if payload and _validate(payload):
             return payload
