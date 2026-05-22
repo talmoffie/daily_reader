@@ -2,7 +2,9 @@ name: sat-reader-bot
 
 on:
   workflow_dispatch: {}          # manual trigger for testing
-  schedule:
+  repository_dispatch:           # reliable external trigger (cron-job.org); slot in client_payload
+    types: [drop]
+  schedule:                      # backup timing (best-effort; GitHub cron drifts)
     - cron: "0 5 * * *"          # 08:00 Jerusalem - university science A
     - cron: "0 9 * * *"          # 12:00 - university science B
     - cron: "0 13 * * *"         # 16:00 - SAT science
@@ -31,6 +33,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          SLOT_OVERRIDE: ${{ github.event.client_payload.slot }}
         run: python src/main.py
       - name: Commit state (dedupe + keepalive)
         run: |

@@ -37,11 +37,22 @@ def _log_run(line: str) -> None:
 
 
 def run() -> None:
-    slot_id = current_slot()
-    log.info("slot: %s", slot_id)
-
     with open(SOURCES_PATH, "r", encoding="utf-8") as f:
         sources = yaml.safe_load(f)
+
+    # An external trigger (cron-job.org -> repository_dispatch) can pin the exact
+    # slot via SLOT_OVERRIDE, bypassing GitHub's unreliable cron timing. Falls
+    # back to the UTC-hour mapping for scheduled/manual runs.
+    override = os.environ.get("SLOT_OVERRIDE", "").strip()
+    if override and override in sources["slots"]:
+        slot_id = override
+        log.info("slot: %s (override)", slot_id)
+    else:
+        if override:
+            log.warning("ignoring unknown SLOT_OVERRIDE=%r", override)
+        slot_id = current_slot()
+        log.info("slot: %s", slot_id)
+
     slot_cfg = sources["slots"][slot_id]
     difficulty = slot_cfg.get("difficulty", "")
 
