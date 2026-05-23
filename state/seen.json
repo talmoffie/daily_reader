@@ -1,7 +1,8 @@
 {
   "sources": {
     "quanta_physics": [
-      "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/"
+      "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/"
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/open-source-robot-ai-platforms"
@@ -30,7 +31,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_cs",
+    "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
