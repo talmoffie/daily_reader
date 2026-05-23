@@ -32,10 +32,14 @@
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
       "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
       "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/"
+      "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
+      "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+    ],
+    "ieee_computing": [
+      "https://spectrum.ieee.org/bolt-graphics-zeus-gpu"
     ]
   },
   "last_used": {
@@ -43,6 +47,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_computing"
   }
 }
