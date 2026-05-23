@@ -21,7 +21,8 @@
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
-      "https://theconversation.com/why-corpus-christi-faces-a-looming-water-shortage-and-what-might-help-283244"
+      "https://theconversation.com/why-corpus-christi-faces-a-looming-water-shortage-and-what-might-help-283244",
+      "https://theconversation.com/americas-nonprofit-sector-is-pushing-back-against-an-authoritarian-playbook-282836"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -41,7 +42,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
 }
