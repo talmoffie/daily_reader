@@ -24,7 +24,8 @@
       "https://theconversation.com/why-corpus-christi-faces-a-looming-water-shortage-and-what-might-help-283244"
     ],
     "smithsonian_history": [
-      "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/"
+      "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
+      "https://www.smithsonianmag.com/history/the-1963-birmingham-church-bombing-killed-four-young-black-girls-but-they-werent-the-only-victims-of-racial-violence-in-the-city-that-day-180988729/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -40,7 +41,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "quanta_qm"
   }
 }
