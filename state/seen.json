@@ -7,7 +7,8 @@
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/open-source-robot-ai-platforms",
-      "https://spectrum.ieee.org/video-friday-humanoid-robot-learning"
+      "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
+      "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -49,7 +50,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
