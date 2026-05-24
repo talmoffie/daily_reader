@@ -9,7 +9,8 @@
       "https://spectrum.ieee.org/video-friday-humanoid-robot-learning"
     ],
     "quanta_cs": [
-      "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/"
+      "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
     ],
     "physorg": [
       "https://phys.org/news/2026-05-rice-billions-people-role-fueling.html",
@@ -45,7 +46,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_physics",
+    "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
