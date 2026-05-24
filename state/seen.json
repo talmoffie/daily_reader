@@ -38,7 +38,8 @@
       "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/"
     ],
     "ieee_aerospace": [
-      "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+      "https://spectrum.ieee.org/taiwan-drone-supply-chain",
+      "https://spectrum.ieee.org/trinity-nuclear-test"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -48,7 +49,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
