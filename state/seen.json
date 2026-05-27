@@ -5,7 +5,8 @@
       "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
       "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
       "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
-      "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/"
+      "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
+      "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/"
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/open-source-robot-ai-platforms",
@@ -82,7 +83,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_cs",
+    "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
