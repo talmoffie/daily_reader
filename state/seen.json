@@ -62,7 +62,8 @@
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
       "https://spectrum.ieee.org/trinity-nuclear-test",
       "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-      "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars"
+      "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars",
+      "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -85,7 +86,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
