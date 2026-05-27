@@ -17,7 +17,8 @@
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
       "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
       "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
-      "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/"
+      "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
+      "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/"
     ],
     "physorg": [
       "https://phys.org/news/2026-05-rice-billions-people-role-fueling.html",
@@ -81,7 +82,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_physics",
+    "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
