@@ -31,7 +31,8 @@
       "https://phys.org/news/2026-05-solar-11year-eruptions-flares.html",
       "https://phys.org/news/2026-05-mars-fungi-red-planet-regolith.html",
       "https://phys.org/news/2026-05-billion-years-big-galaxies.html",
-      "https://phys.org/news/2026-05-culture-dating-apps-men-body.html"
+      "https://phys.org/news/2026-05-culture-dating-apps-men-body.html",
+      "https://phys.org/news/2026-05-forgotten-museum-fossil-rewrite-animal.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -100,7 +101,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
