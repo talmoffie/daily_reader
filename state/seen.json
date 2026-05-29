@@ -54,7 +54,8 @@
       "https://theconversation.com/americas-nonprofit-sector-is-pushing-back-against-an-authoritarian-playbook-282836",
       "https://theconversation.com/looksmaxxing-isnt-just-a-tiktok-trend-it-often-reflects-severe-body-image-issues-in-teen-boys-and-young-men-280567",
       "https://theconversation.com/beyond-disney-a-1616-portrait-of-pocahontas-shows-how-english-colonizers-saw-indigenous-americans-282221",
-      "https://theconversation.com/older-americans-are-often-compelled-to-keep-working-and-then-criticized-for-not-stepping-aside-282837"
+      "https://theconversation.com/older-americans-are-often-compelled-to-keep-working-and-then-criticized-for-not-stepping-aside-282837",
+      "https://theconversation.com/far-removed-from-todays-global-juggernaut-soccer-was-born-in-the-well-heeled-boarding-schools-of-19th-century-england-282672"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -116,7 +117,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
 }
