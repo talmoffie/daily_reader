@@ -112,7 +112,11 @@
       "https://content.knowledgehub.wiley.com/efficient-design-and-simulation-of-lpda-fed-parabolic-reflector-antennas/",
       "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
       "https://spectrum.ieee.org/quantum-safe-crypto",
-      "https://spectrum.ieee.org/soft-photonics"
+      "https://spectrum.ieee.org/soft-photonics",
+      "https://spectrum.ieee.org/storeless-password-manager"
+    ],
+    "ieee_semiconductors": [
+      "https://spectrum.ieee.org/chip-design-academic-vs-industry"
     ]
   },
   "last_used": {
@@ -120,6 +124,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
