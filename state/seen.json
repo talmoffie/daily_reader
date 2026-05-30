@@ -68,7 +68,8 @@
       "https://www.smithsonianmag.com/history/born-and-raised-in-philadelphia-this-loyalist-fled-to-england-during-the-american-revolution-in-his-absence-the-patriots-declared-him-a-traitor-and-seized-his-property-180988705/",
       "https://www.smithsonianmag.com/history/history-remembers-mary-boleyn-as-the-scandalous-other-boleyn-girl-new-research-debunks-the-myths-surrounding-the-tudor-mistress-180988703/",
       "https://www.smithsonianmag.com/history/divers-discover-the-shipwreck-of-a-world-war-i-era-coast-guard-cutter-which-vanished-with-131-sailors-on-board-in-1918-180988676/",
-      "https://www.smithsonianmag.com/history/one-weather-forecast-changed-the-course-of-wwii-heres-the-real-story-behind-pressure-a-drama-about-the-meteorologist-who-convinced-the-allies-to-delay-d-day-180988829/"
+      "https://www.smithsonianmag.com/history/one-weather-forecast-changed-the-course-of-wwii-heres-the-real-story-behind-pressure-a-drama-about-the-meteorologist-who-convinced-the-allies-to-delay-d-day-180988829/",
+      "https://www.smithsonianmag.com/history/soviet-cosmonauts-trained-at-star-city-as-they-raced-to-beat-america-to-the-moon-now-a-new-tv-series-imagines-what-happened-behind-the-bases-walls-180988823/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -131,7 +132,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
