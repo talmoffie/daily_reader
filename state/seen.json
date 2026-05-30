@@ -20,7 +20,8 @@
       "https://spectrum.ieee.org/robotics-ai-breakthrough",
       "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
       "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
-      "https://spectrum.ieee.org/dull-dirty-dangerous-robots"
+      "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
+      "https://spectrum.ieee.org/video-friday-rabona-soccer"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -125,7 +126,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
