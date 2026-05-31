@@ -64,7 +64,8 @@
       "https://theconversation.com/beyond-disney-a-1616-portrait-of-pocahontas-shows-how-english-colonizers-saw-indigenous-americans-282221",
       "https://theconversation.com/older-americans-are-often-compelled-to-keep-working-and-then-criticized-for-not-stepping-aside-282837",
       "https://theconversation.com/far-removed-from-todays-global-juggernaut-soccer-was-born-in-the-well-heeled-boarding-schools-of-19th-century-england-282672",
-      "https://theconversation.com/poop-tests-and-blood-tests-join-colonoscopy-as-options-for-colorectal-cancer-screening-284037"
+      "https://theconversation.com/poop-tests-and-blood-tests-join-colonoscopy-as-options-for-colorectal-cancer-screening-284037",
+      "https://theconversation.com/whats-wrong-with-how-us-and-uganda-plan-to-stop-ebola-spreading-284015"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -142,7 +143,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
 }
