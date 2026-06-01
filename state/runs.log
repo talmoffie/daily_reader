@@ -128,3 +128,5 @@
 2026-06-01T14:59:36Z slot=sat_science source=nasa_news degraded=False posted=True url=https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/
 2026-06-01T17:11:08Z slot=history_other source=smithsonian_history degraded=False posted=True url=https://www.smithsonianmag.com/history/a-collection-of-maps-owned-by-englands-first-queen-spent-centuries-overlooked-in-a-family-library-now-the-rare-volume-is-on-sale-for-16-million-180988604/
 2026-06-01T18:45:55Z slot=history_other source=the_conversation degraded=False posted=True url=https://theconversation.com/in-iran-wars-shadow-israels-renewed-lebanon-campaign-risks-repeating-failed-lessons-and-occupations-of-the-past-284052
+2026-06-01T19:00:53Z slot=bonus source=ieee_computing degraded=False posted=True url=https://spectrum.ieee.org/huge-memory-ai-server
+2026-06-01T19:01:00Z slot=bonus source=ieee_semiconductors degraded=False posted=True url=https://spectrum.ieee.org/ai-chip-design

@@ -133,7 +133,8 @@
       "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
       "https://spectrum.ieee.org/quantum-safe-crypto",
       "https://spectrum.ieee.org/soft-photonics",
-      "https://spectrum.ieee.org/storeless-password-manager"
+      "https://spectrum.ieee.org/storeless-password-manager",
+      "https://spectrum.ieee.org/huge-memory-ai-server"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -146,7 +147,8 @@
       "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
       "https://spectrum.ieee.org/inchfab",
       "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip",
-      "https://spectrum.ieee.org/gpu-performance-comparison"
+      "https://spectrum.ieee.org/gpu-performance-comparison",
+      "https://spectrum.ieee.org/ai-chip-design"
     ]
   },
   "last_used": {
