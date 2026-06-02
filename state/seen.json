@@ -103,7 +103,8 @@
       "https://spectrum.ieee.org/satellite-communication-laser-radio-transcelestial",
       "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
       "https://spectrum.ieee.org/self-healing-electronics-jupiter",
-      "https://spectrum.ieee.org/robert-goddard-leadership"
+      "https://spectrum.ieee.org/robert-goddard-leadership",
+      "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -159,7 +160,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
