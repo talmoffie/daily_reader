@@ -83,7 +83,8 @@
       "https://www.smithsonianmag.com/history/one-weather-forecast-changed-the-course-of-wwii-heres-the-real-story-behind-pressure-a-drama-about-the-meteorologist-who-convinced-the-allies-to-delay-d-day-180988829/",
       "https://www.smithsonianmag.com/history/soviet-cosmonauts-trained-at-star-city-as-they-raced-to-beat-america-to-the-moon-now-a-new-tv-series-imagines-what-happened-behind-the-bases-walls-180988823/",
       "https://www.smithsonianmag.com/history/everyone-remembers-paul-reveres-midnight-ride-but-his-forgotten-race-to-secure-a-trove-of-documents-reveals-how-government-records-helped-win-the-war-180988648/",
-      "https://www.smithsonianmag.com/history/a-collection-of-maps-owned-by-englands-first-queen-spent-centuries-overlooked-in-a-family-library-now-the-rare-volume-is-on-sale-for-16-million-180988604/"
+      "https://www.smithsonianmag.com/history/a-collection-of-maps-owned-by-englands-first-queen-spent-centuries-overlooked-in-a-family-library-now-the-rare-volume-is-on-sale-for-16-million-180988604/",
+      "https://www.smithsonianmag.com/history/walt-disney-visited-a-ford-factory-in-1948-what-he-witnessed-there-laid-the-groundwork-for-what-would-become-disneyland-180988551/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -163,7 +164,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
