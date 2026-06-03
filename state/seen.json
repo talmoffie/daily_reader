@@ -172,7 +172,9 @@
       "https://spectrum.ieee.org/face-recognition-nvidia-chip-soc",
       "https://spectrum.ieee.org/nvidia-groq-3",
       "https://spectrum.ieee.org/ai-data-centers-dwdm-optics",
-      "https://spectrum.ieee.org/lab-on-a-chip-grippers"
+      "https://spectrum.ieee.org/lab-on-a-chip-grippers",
+      "https://spectrum.ieee.org/fhe-intel",
+      "https://spectrum.ieee.org/rf-tags-wasps"
     ]
   },
   "last_used": {
@@ -180,6 +182,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
