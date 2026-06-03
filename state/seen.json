@@ -99,7 +99,8 @@
       "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
       "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
-      "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/"
+      "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
+      "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -146,7 +147,8 @@
       "https://spectrum.ieee.org/quantum-safe-crypto",
       "https://spectrum.ieee.org/soft-photonics",
       "https://spectrum.ieee.org/storeless-password-manager",
-      "https://spectrum.ieee.org/huge-memory-ai-server"
+      "https://spectrum.ieee.org/huge-memory-ai-server",
+      "https://spectrum.ieee.org/quantum-calibration-decoding"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -178,6 +180,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_computing"
   }
 }
