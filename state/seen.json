@@ -185,6 +185,10 @@
       "https://spectrum.ieee.org/blood-pressure-monitor-smartwatch",
       "https://spectrum.ieee.org/ram-shortage-price-increase",
       "https://spectrum.ieee.org/nsf-x-labs"
+    ],
+    "ieee_aerospace_bonus": [
+      "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
+      "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/"
     ]
   },
   "last_used": {
@@ -192,6 +196,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
