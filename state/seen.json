@@ -51,7 +51,8 @@
       "https://phys.org/news/2026-05-jwst-stellar-bar-early-universe.html",
       "https://phys.org/news/2026-05-teachers-emotions-student.html",
       "https://phys.org/news/2026-06-dormant-black-hole-revives-years.html",
-      "https://phys.org/news/2026-06-seas-eventually-mangroves-carbon.html"
+      "https://phys.org/news/2026-06-seas-eventually-mangroves-carbon.html",
+      "https://phys.org/news/2026-06-jupiter-reveals-electrons-relativistic.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -186,7 +187,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
