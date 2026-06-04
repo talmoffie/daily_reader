@@ -27,7 +27,8 @@
       "https://spectrum.ieee.org/video-friday-material-handling-robots",
       "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
       "https://spectrum.ieee.org/stretch-4-home-robot",
-      "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity"
+      "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
+      "https://spectrum.ieee.org/familiar-machines-and-magic"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -182,7 +183,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
