@@ -72,7 +72,8 @@
       "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
       "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
       "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
-      "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/"
+      "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+      "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -207,7 +208,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
