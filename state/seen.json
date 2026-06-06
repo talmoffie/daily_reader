@@ -105,7 +105,8 @@
       "https://www.smithsonianmag.com/history/walt-disney-visited-a-ford-factory-in-1948-what-he-witnessed-there-laid-the-groundwork-for-what-would-become-disneyland-180988551/",
       "https://www.smithsonianmag.com/history/american-revolution-overlooked-influence-physics-thomas-paine-common-sense-spelled-out-astronomical-expectations-new-nation-180988795/",
       "https://www.smithsonianmag.com/history/during-the-revolution-american-women-fought-for-freedom-spied-on-the-british-cared-for-the-sick-and-fell-in-love-a-new-exhibition-reveals-their-rich-wartime-stories-180988887/",
-      "https://www.smithsonianmag.com/history/womans-right-vote-secured-work-inspired-mothers-driven-maternal-instincts-180988828/"
+      "https://www.smithsonianmag.com/history/womans-right-vote-secured-work-inspired-mothers-driven-maternal-instincts-180988828/",
+      "https://www.smithsonianmag.com/history/born-1810-margaret-fuller-labeled-child-prodigy-later-used-intellect-ask-important-questions-about-women-america-180988800/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -211,7 +212,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
 }
