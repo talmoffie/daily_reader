@@ -31,7 +31,8 @@
       "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
       "https://spectrum.ieee.org/familiar-machines-and-magic",
       "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "https://spectrum.ieee.org/video-friday-humanoid-robot-running"
+      "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
+      "https://spectrum.ieee.org/video-friday-humanoid-robot-production"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -214,7 +215,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
