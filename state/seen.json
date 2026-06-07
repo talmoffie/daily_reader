@@ -134,7 +134,8 @@
       "https://spectrum.ieee.org/lunar-base-3d-printing",
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
       "https://spectrum.ieee.org/orbital-data-centers",
-      "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving"
+      "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -215,7 +216,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
