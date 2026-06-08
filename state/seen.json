@@ -80,7 +80,8 @@
       "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
       "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
-      "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/"
+      "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+      "https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -229,7 +230,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
