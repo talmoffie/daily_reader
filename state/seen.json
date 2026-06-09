@@ -120,7 +120,8 @@
       "https://www.smithsonianmag.com/history/during-the-revolution-american-women-fought-for-freedom-spied-on-the-british-cared-for-the-sick-and-fell-in-love-a-new-exhibition-reveals-their-rich-wartime-stories-180988887/",
       "https://www.smithsonianmag.com/history/womans-right-vote-secured-work-inspired-mothers-driven-maternal-instincts-180988828/",
       "https://www.smithsonianmag.com/history/born-1810-margaret-fuller-labeled-child-prodigy-later-used-intellect-ask-important-questions-about-women-america-180988800/",
-      "https://www.smithsonianmag.com/history/the-revolutionary-spark-180988782/"
+      "https://www.smithsonianmag.com/history/the-revolutionary-spark-180988782/",
+      "https://www.smithsonianmag.com/history/some-presidents-offer-more-just-policy-here-are-five-brought-innovative-spirit-office-180988834/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -243,7 +244,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
 }
