@@ -63,7 +63,8 @@
       "https://phys.org/news/2026-06-magnetic-field-binary-star-simulations.html",
       "https://phys.org/news/2026-06-volcanic-eruptions-linked-famine-china.html",
       "https://phys.org/news/2026-06-shoppers-based-proteins.html",
-      "https://phys.org/news/2026-06-nickelate-superconductors-common-electronic-fingerprint.html"
+      "https://phys.org/news/2026-06-nickelate-superconductors-common-electronic-fingerprint.html",
+      "https://phys.org/news/2026-06-ghost-dog-amazon-insights-mythical.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -240,7 +241,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
