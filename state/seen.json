@@ -40,7 +40,8 @@
       "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
       "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
       "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-      "https://spectrum.ieee.org/chinese-robots-us-ban"
+      "https://spectrum.ieee.org/chinese-robots-us-ban",
+      "https://spectrum.ieee.org/socially-assistive-robotics"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -266,7 +267,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
