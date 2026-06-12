@@ -147,7 +147,8 @@
       "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
       "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
-      "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
+      "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -274,6 +275,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_computing"
+    "bonus": "quanta_qm"
   }
 }
