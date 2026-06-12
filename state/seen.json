@@ -136,7 +136,8 @@
       "https://www.smithsonianmag.com/history/born-1810-margaret-fuller-labeled-child-prodigy-later-used-intellect-ask-important-questions-about-women-america-180988800/",
       "https://www.smithsonianmag.com/history/the-revolutionary-spark-180988782/",
       "https://www.smithsonianmag.com/history/some-presidents-offer-more-just-policy-here-are-five-brought-innovative-spirit-office-180988834/",
-      "https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/"
+      "https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/",
+      "https://www.smithsonianmag.com/history/when-journalist-took-corruption-used-tool-that-hadnt-been-used-much-american-history-unvarnished-truth-180988855/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -272,7 +273,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
   }
 }
