@@ -121,7 +121,8 @@
       "https://theconversation.com/what-pennsylvanias-ai-chatbot-lawsuit-teaches-us-about-the-psychology-behind-medical-trust-283865",
       "https://theconversation.com/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole-282348",
       "https://theconversation.com/how-money-exchanges-between-house-members-shape-the-balance-of-power-in-congress-283568",
-      "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540"
+      "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540",
+      "https://theconversation.com/el-nino-is-back-and-ocean-temperatures-are-already-near-record-highs-that-can-spell-disaster-for-fish-and-corals-285097"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -279,7 +280,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
 }
