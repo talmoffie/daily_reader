@@ -77,7 +77,8 @@
       "https://phys.org/news/2026-06-galaxy-early-universe.html",
       "https://phys.org/news/2026-06-ai-reshape-indigenous-ranger.html",
       "https://phys.org/news/2026-06-ancient-bacteria-agriculture-biggest.html",
-      "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html"
+      "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html",
+      "https://phys.org/news/2026-06-chemical-impurities-carbon-surfaces-superslippery.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -282,7 +283,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "quanta_qm"
   }
