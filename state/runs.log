@@ -281,3 +281,4 @@
 2026-06-14T17:11:08Z slot=history_other source=the_conversation degraded=False posted=True url=https://theconversation.com/efforts-to-combat-climate-change-often-exclude-indigenous-people-and-they-may-not-have-any-recourse-283954
 2026-06-14T18:18:59Z slot=history_other source=smithsonian_history degraded=False posted=True url=https://www.smithsonianmag.com/history/one-quietest-leaders-civil-rights-movement-ella-baker-led-encouraging-everyone-get-involved-180988846/
 2026-06-14T19:01:32Z slot=bonus source=ieee_aerospace_bonus degraded=False posted=True url=https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble
+2026-06-14T20:18:17Z slot=bonus result=no_article
