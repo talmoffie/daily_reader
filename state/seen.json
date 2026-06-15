@@ -164,7 +164,8 @@
       "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
       "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
       "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/"
+      "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
+      "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -229,7 +230,8 @@
       "https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc",
       "https://spectrum.ieee.org/fractal-os-operating-system-security",
       "https://spectrum.ieee.org/llm-training-energy-saving-trick",
-      "https://spectrum.ieee.org/orbital-data-centers-heat"
+      "https://spectrum.ieee.org/orbital-data-centers-heat",
+      "https://spectrum.ieee.org/tensordyne-inference-claim"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -295,6 +297,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_computing"
   }
 }
