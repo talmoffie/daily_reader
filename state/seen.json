@@ -129,7 +129,8 @@
       "https://theconversation.com/how-money-exchanges-between-house-members-shape-the-balance-of-power-in-congress-283568",
       "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540",
       "https://theconversation.com/el-nino-is-back-and-ocean-temperatures-are-already-near-record-highs-that-can-spell-disaster-for-fish-and-corals-285097",
-      "https://theconversation.com/efforts-to-combat-climate-change-often-exclude-indigenous-people-and-they-may-not-have-any-recourse-283954"
+      "https://theconversation.com/efforts-to-combat-climate-change-often-exclude-indigenous-people-and-they-may-not-have-any-recourse-283954",
+      "https://theconversation.com/this-successful-arctic-fishing-treaty-has-kept-russia-china-the-us-and-others-working-together-for-5-years-it-could-be-a-model-for-future-diplomacy-284820"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -292,7 +293,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
