@@ -301,3 +301,4 @@
 2026-06-16T17:11:05Z slot=history_other source=the_conversation degraded=False posted=True url=https://theconversation.com/why-fatherhood-matters-more-than-ever-before-283850
 2026-06-16T18:11:51Z slot=history_other source=smithsonian_history degraded=False posted=True url=https://www.smithsonianmag.com/history/americas-150th-birthday-celebration-was-deemed-the-nations-greatest-flop-what-went-wrong-with-the-sesquicentennial-180988946/
 2026-06-16T19:01:33Z slot=bonus source=ieee_semiconductors degraded=False posted=True url=https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems
+2026-06-16T20:10:10Z slot=bonus result=no_article
