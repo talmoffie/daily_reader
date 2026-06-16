@@ -192,7 +192,8 @@
       "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
       "https://spectrum.ieee.org/radio-telescope",
       "https://spectrum.ieee.org/artemis-ii-launch-nasa-orion",
-      "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble"
+      "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble",
+      "https://spectrum.ieee.org/exoplanets"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -295,7 +296,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
