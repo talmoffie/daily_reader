@@ -267,7 +267,8 @@
       "https://spectrum.ieee.org/rf-tags-wasps",
       "https://spectrum.ieee.org/blood-pressure-monitor-smartwatch",
       "https://spectrum.ieee.org/ram-shortage-price-increase",
-      "https://spectrum.ieee.org/nsf-x-labs"
+      "https://spectrum.ieee.org/nsf-x-labs",
+      "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -304,6 +305,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
