@@ -47,7 +47,8 @@
       "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
       "https://spectrum.ieee.org/robot-emotions-visual-language-models",
       "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
-      "https://spectrum.ieee.org/robot-learning"
+      "https://spectrum.ieee.org/robot-learning",
+      "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -303,7 +304,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
