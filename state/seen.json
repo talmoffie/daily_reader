@@ -300,11 +300,14 @@
       "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
       "https://spectrum.ieee.org/lunar-radio-telescope",
       "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble"
+    ],
+    "ieee_ai": [
+      "https://spectrum.ieee.org/gm-ai-design"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
