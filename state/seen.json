@@ -113,7 +113,8 @@
       "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
       "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
       "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/",
-      "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/"
+      "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
+      "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -309,7 +310,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
