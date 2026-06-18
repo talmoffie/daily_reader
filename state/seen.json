@@ -309,7 +309,8 @@
       "https://spectrum.ieee.org/exoplanets",
       "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
       "https://spectrum.ieee.org/lunar-radio-telescope",
-      "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble"
+      "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble",
+      "https://spectrum.ieee.org/optical-metasurface-solar-telescope"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -321,6 +322,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
