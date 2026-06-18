@@ -168,7 +168,8 @@
       "https://www.smithsonianmag.com/history/concept-peaceful-disobedience-established-america-traveled-world-taking-hold-180988847/",
       "https://www.smithsonianmag.com/history/one-quietest-leaders-civil-rights-movement-ella-baker-led-encouraging-everyone-get-involved-180988846/",
       "https://www.smithsonianmag.com/history/woodrow-wilson-legacy-loaded-good-bad-work-even-economic-playing-field-often-overlooked-180988853/",
-      "https://www.smithsonianmag.com/history/americas-150th-birthday-celebration-was-deemed-the-nations-greatest-flop-what-went-wrong-with-the-sesquicentennial-180988946/"
+      "https://www.smithsonianmag.com/history/americas-150th-birthday-celebration-was-deemed-the-nations-greatest-flop-what-went-wrong-with-the-sesquicentennial-180988946/",
+      "https://www.smithsonianmag.com/history/when-photographer-turned-focus-social-justice-helped-usher-first-child-labor-laws-180988833/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -319,7 +320,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
