@@ -88,7 +88,8 @@
       "https://phys.org/news/2026-06-chemical-impurities-carbon-surfaces-superslippery.html",
       "https://phys.org/news/2026-06-australia-tackle-unemployment-suicide.html",
       "https://phys.org/news/2026-06-alien-megastructures-moon.html",
-      "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html"
+      "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html",
+      "https://phys.org/news/2026-06-bread-beer-alluring-yeast-species.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -316,7 +317,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
