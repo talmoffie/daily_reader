@@ -91,7 +91,8 @@
       "https://phys.org/news/2026-06-australia-tackle-unemployment-suicide.html",
       "https://phys.org/news/2026-06-alien-megastructures-moon.html",
       "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html",
-      "https://phys.org/news/2026-06-bread-beer-alluring-yeast-species.html"
+      "https://phys.org/news/2026-06-bread-beer-alluring-yeast-species.html",
+      "https://phys.org/news/2026-06-student-sighting-microwhip-scorpion-daintree.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -324,7 +325,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
