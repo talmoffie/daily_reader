@@ -152,7 +152,8 @@
       "https://theconversation.com/this-successful-arctic-fishing-treaty-has-kept-russia-china-the-us-and-others-working-together-for-5-years-it-could-be-a-model-for-future-diplomacy-284820",
       "https://theconversation.com/why-fatherhood-matters-more-than-ever-before-283850",
       "https://theconversation.com/rural-areas-lag-behind-in-cancer-treatment-and-prevention-even-as-rich-urban-areas-increasingly-leave-dying-from-cancer-in-the-rearview-278381",
-      "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150"
+      "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
+      "https://theconversation.com/quantum-sensors-could-spot-hidden-damage-in-the-thousands-of-us-bridges-rated-structurally-deficient-283569"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -333,7 +334,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
