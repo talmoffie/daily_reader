@@ -179,7 +179,8 @@
       "https://www.smithsonianmag.com/history/woodrow-wilson-legacy-loaded-good-bad-work-even-economic-playing-field-often-overlooked-180988853/",
       "https://www.smithsonianmag.com/history/americas-150th-birthday-celebration-was-deemed-the-nations-greatest-flop-what-went-wrong-with-the-sesquicentennial-180988946/",
       "https://www.smithsonianmag.com/history/when-photographer-turned-focus-social-justice-helped-usher-first-child-labor-laws-180988833/",
-      "https://www.smithsonianmag.com/history/theodore-roosevelt-survived-an-assassination-attempt-because-a-speech-tucked-inside-his-pocket-slowed-the-bullet-he-insisted-on-delivering-his-remarks-anyway-180988911/"
+      "https://www.smithsonianmag.com/history/theodore-roosevelt-survived-an-assassination-attempt-because-a-speech-tucked-inside-his-pocket-slowed-the-bullet-he-insisted-on-delivering-his-remarks-anyway-180988911/",
+      "https://www.smithsonianmag.com/history/pivotal-moment-civil-war-frederick-douglass-delivered-speech-reframed-what-was-at-stake-slavery-stood-180988836/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -334,7 +335,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
 }
