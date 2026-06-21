@@ -329,12 +329,13 @@
       "https://spectrum.ieee.org/gm-ai-design",
       "https://spectrum.ieee.org/ai-music-attribution",
       "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
-      "https://spectrum.ieee.org/large-language-models-ieee-course"
+      "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
