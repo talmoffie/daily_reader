@@ -55,7 +55,8 @@
       "https://spectrum.ieee.org/ieee-education-week",
       "https://spectrum.ieee.org/tech-interview-prep",
       "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
-      "https://spectrum.ieee.org/amazon-astro-robot-sound"
+      "https://spectrum.ieee.org/amazon-astro-robot-sound",
+      "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -339,7 +340,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
