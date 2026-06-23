@@ -272,7 +272,9 @@
       "https://spectrum.ieee.org/llm-training-energy-saving-trick",
       "https://spectrum.ieee.org/orbital-data-centers-heat",
       "https://spectrum.ieee.org/tensordyne-inference-claim",
-      "https://spectrum.ieee.org/single-atom-camera-quantum-computing"
+      "https://spectrum.ieee.org/single-atom-camera-quantum-computing",
+      "https://spectrum.ieee.org/vibecoding-malware",
+      "https://spectrum.ieee.org/europe-tech-sovereignty-package"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -349,6 +351,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_computing"
   }
 }
