@@ -350,12 +350,13 @@
       "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
       "https://spectrum.ieee.org/large-language-models-ieee-course",
       "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-      "https://spectrum.ieee.org/70-years-of-artificial-intelligence"
+      "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
+      "https://spectrum.ieee.org/ai-radio-chip-design"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
