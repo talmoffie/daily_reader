@@ -141,7 +141,8 @@
       "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
       "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
       "https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/",
-      "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+      "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
+      "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -367,7 +368,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
