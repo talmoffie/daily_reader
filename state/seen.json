@@ -107,7 +107,8 @@
       "https://phys.org/news/2026-06-today-housing-emergency-years.html",
       "https://phys.org/news/2026-06-arrow-radio-galaxy-citizen-scientist.html",
       "https://phys.org/news/2026-06-female-guppies-rare-males-evolution.html",
-      "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html"
+      "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html",
+      "https://phys.org/news/2026-06-sun-outbursts-briefly-weaken-events.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -370,7 +371,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
