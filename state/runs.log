@@ -385,3 +385,4 @@
 2026-06-27T18:06:03Z slot=history_other source=the_conversation degraded=False posted=True url=https://theconversation.com/aid-is-on-the-way-after-venezuelas-earthquakes-but-its-not-clear-how-quickly-it-can-get-there-286206
 2026-06-27T20:08:35Z slot=bonus result=no_article
 2026-06-28T08:15:27Z slot=university_science_a result=no_article
+2026-06-28T11:05:09Z slot=university_science_b source=ieee_robotics degraded=False posted=True url=https://spectrum.ieee.org/video-friday-robot-grippers
