@@ -390,3 +390,4 @@
 2026-06-28T18:09:41Z slot=history_other source=smithsonian_history degraded=False posted=True url=https://www.smithsonianmag.com/history/harriet-beecher-stowe-wrote-work-fiction-that-seemed-so-real-changed-history-country-180988826/
 2026-06-28T20:14:15Z slot=bonus result=no_article
 2026-06-29T09:21:15Z slot=university_science_b source=ieee_ai degraded=False posted=True url=https://spectrum.ieee.org/conlangs-ai-model-contructed-languages
+2026-06-29T13:04:58Z slot=sat_science source=nasa_news degraded=False posted=True url=https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/
