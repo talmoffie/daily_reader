@@ -176,7 +176,8 @@
       "https://theconversation.com/quantum-sensors-could-spot-hidden-damage-in-the-thousands-of-us-bridges-rated-structurally-deficient-283569",
       "https://theconversation.com/toy-story-5s-lilypad-is-an-indictment-of-the-world-that-birthed-the-ipad-kid-285049",
       "https://theconversation.com/como-las-ranitas-coqui-jovenes-equilibran-las-demandas-de-crecimiento-y-de-combatir-enfermedades-285519",
-      "https://theconversation.com/aid-is-on-the-way-after-venezuelas-earthquakes-but-its-not-clear-how-quickly-it-can-get-there-286206"
+      "https://theconversation.com/aid-is-on-the-way-after-venezuelas-earthquakes-but-its-not-clear-how-quickly-it-can-get-there-286206",
+      "https://theconversation.com/fireworks-heat-and-drought-make-this-july-4th-a-recipe-for-wildfires-286138"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -376,7 +377,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
 }
