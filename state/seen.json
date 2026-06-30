@@ -209,7 +209,8 @@
       "https://www.smithsonianmag.com/history/pivotal-moment-civil-war-frederick-douglass-delivered-speech-reframed-what-was-at-stake-slavery-stood-180988836/",
       "https://www.smithsonianmag.com/history/how-angry-out-of-work-fishermen-saved-the-patriots-during-the-american-revolution-180988968/",
       "https://www.smithsonianmag.com/history/a-century-and-a-half-after-custers-last-stand-the-battle-of-little-bighorn-continues-to-mystify-180988984/",
-      "https://www.smithsonianmag.com/history/harriet-beecher-stowe-wrote-work-fiction-that-seemed-so-real-changed-history-country-180988826/"
+      "https://www.smithsonianmag.com/history/harriet-beecher-stowe-wrote-work-fiction-that-seemed-so-real-changed-history-country-180988826/",
+      "https://www.smithsonianmag.com/history/during-world-war-i-this-woman-asked-americans-to-welcome-immigrants-and-urged-new-arrivals-to-assimilate-180989035/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -381,7 +382,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
