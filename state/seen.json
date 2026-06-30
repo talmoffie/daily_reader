@@ -297,7 +297,8 @@
       "https://spectrum.ieee.org/single-atom-camera-quantum-computing",
       "https://spectrum.ieee.org/vibecoding-malware",
       "https://spectrum.ieee.org/europe-tech-sovereignty-package",
-      "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation"
+      "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
+      "https://spectrum.ieee.org/quantum-computing-trump-executive-orders"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -363,7 +364,8 @@
       "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
       "https://spectrum.ieee.org/lunar-radio-telescope",
       "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble",
-      "https://spectrum.ieee.org/optical-metasurface-solar-telescope"
+      "https://spectrum.ieee.org/optical-metasurface-solar-telescope",
+      "https://spectrum.ieee.org/history-of-fireworks"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -383,6 +385,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
