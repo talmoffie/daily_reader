@@ -111,7 +111,8 @@
       "https://phys.org/news/2026-06-female-guppies-rare-males-evolution.html",
       "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html",
       "https://phys.org/news/2026-06-sun-outbursts-briefly-weaken-events.html",
-      "https://phys.org/news/2026-06-people-worldwide-mental-abilities-inborn.html"
+      "https://phys.org/news/2026-06-people-worldwide-mental-abilities-inborn.html",
+      "https://phys.org/news/2026-07-esa-outlines-high-tech-lander.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -384,7 +385,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
