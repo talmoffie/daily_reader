@@ -64,7 +64,8 @@
       "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
       "https://spectrum.ieee.org/united-states-power-grid-capacity",
       "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
-      "https://spectrum.ieee.org/video-friday-robot-grippers"
+      "https://spectrum.ieee.org/video-friday-robot-grippers",
+      "https://spectrum.ieee.org/history-of-fireworks"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -382,7 +383,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
