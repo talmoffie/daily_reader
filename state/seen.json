@@ -230,7 +230,8 @@
       "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
       "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
       "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
-      "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/"
+      "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -342,7 +343,8 @@
       "https://spectrum.ieee.org/ai-radio-chip-design",
       "https://spectrum.ieee.org/hybrid-bonding-2677022836",
       "https://spectrum.ieee.org/cfet-ibm-plan",
-      "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips"
+      "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+      "https://spectrum.ieee.org/ai-chip-design-fab-ucla"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -394,6 +396,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
