@@ -186,7 +186,8 @@
       "https://theconversation.com/como-las-ranitas-coqui-jovenes-equilibran-las-demandas-de-crecimiento-y-de-combatir-enfermedades-285519",
       "https://theconversation.com/aid-is-on-the-way-after-venezuelas-earthquakes-but-its-not-clear-how-quickly-it-can-get-there-286206",
       "https://theconversation.com/fireworks-heat-and-drought-make-this-july-4th-a-recipe-for-wildfires-286138",
-      "https://theconversation.com/youve-never-heard-of-these-glaciers-but-theyre-becoming-critical-climate-havens-as-americas-iconic-mountain-glaciers-and-their-water-fade-285215"
+      "https://theconversation.com/youve-never-heard-of-these-glaciers-but-theyre-becoming-critical-climate-havens-as-americas-iconic-mountain-glaciers-and-their-water-fade-285215",
+      "https://theconversation.com/civility-requires-the-willingness-to-engage-a-dispute-with-a-neighbor-revealed-how-much-motivation-matters-274359"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -398,7 +399,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
 }
