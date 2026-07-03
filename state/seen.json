@@ -389,12 +389,13 @@
       "https://spectrum.ieee.org/ai-radio-chip-design",
       "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
       "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
-      "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips"
+      "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+      "https://spectrum.ieee.org/ai-energy-systems-melbourne"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
