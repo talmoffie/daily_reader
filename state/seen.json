@@ -267,7 +267,8 @@
       "https://spectrum.ieee.org/exoplanets",
       "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
       "https://spectrum.ieee.org/optical-metasurface-solar-telescope",
-      "https://spectrum.ieee.org/orbital-data-center-hype"
+      "https://spectrum.ieee.org/orbital-data-center-hype",
+      "https://spectrum.ieee.org/history-of-fireworks"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -400,7 +401,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
