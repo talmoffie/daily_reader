@@ -158,7 +158,8 @@
       "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
       "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
       "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
-      "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
+      "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+      "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -405,7 +406,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
