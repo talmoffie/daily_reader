@@ -428,3 +428,4 @@
 2026-07-05T18:06:48Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/alcohol-is-one-of-the-most-dangerous-drugs-yet-its-presence-is-ubiquitous-in-social-settings-and-celebrations-278631
 2026-07-05T20:14:09Z slot=bonus result=no_article
 2026-07-06T08:54:00Z slot=university_science_a result=no_article
+2026-07-06T12:44:02Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/ieees-global-museum-engineering-history

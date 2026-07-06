@@ -68,7 +68,8 @@
       "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
       "https://spectrum.ieee.org/video-friday-robot-grippers",
       "https://spectrum.ieee.org/history-of-fireworks",
-      "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
+      "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
+      "https://spectrum.ieee.org/ieees-global-museum-engineering-history"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -403,7 +404,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
