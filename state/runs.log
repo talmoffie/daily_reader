@@ -433,3 +433,4 @@
 2026-07-06T19:01:21Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/a-journalists-journey-through-faith-and-identity-286324
 2026-07-06T20:52:40Z slot=bonus result=no_article
 2026-07-07T08:13:39Z slot=university_science_a source=quanta_cs degraded=False posted=False url=https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/
+2026-07-07T11:46:27Z slot=university_science_b source=ieee_ai degraded=False posted=False url=https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
