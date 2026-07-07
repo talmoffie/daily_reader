@@ -119,7 +119,8 @@
       "https://phys.org/news/2026-06-people-worldwide-mental-abilities-inborn.html",
       "https://phys.org/news/2026-07-esa-outlines-high-tech-lander.html",
       "https://phys.org/news/2026-07-radio-outburst-black-hole-properties.html",
-      "https://phys.org/news/2026-06-bronze-bells-chinese-lord-year.html"
+      "https://phys.org/news/2026-06-bronze-bells-chinese-lord-year.html",
+      "https://phys.org/news/2026-07-cultural-safety-isnt-buzzword-vital.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -409,7 +410,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
