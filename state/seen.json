@@ -28,7 +28,8 @@
       "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
       "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
       "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+      "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/"
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/open-source-robot-ai-platforms",
@@ -411,7 +412,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_cs",
+    "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
