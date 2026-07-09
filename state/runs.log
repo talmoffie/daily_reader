@@ -444,3 +444,4 @@
 2026-07-08T18:23:40Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/creating-synthetic-life-in-a-lab-spudcell-falls-short-of-the-goal-but-raises-even-more-useful-questions-286762
 2026-07-08T20:21:10Z slot=bonus source=ieee_semiconductors degraded=False posted=False url=https://spectrum.ieee.org/stacking-chips-sideways
 2026-07-09T08:18:34Z slot=university_science_a source=quanta_physics degraded=False posted=False url=https://www.quantamagazine.org/is-life-just-different-20260708/
+2026-07-09T11:55:09Z slot=university_science_b source=ieee_ai degraded=False posted=False url=https://spectrum.ieee.org/ai-reasoning-models-security-risk

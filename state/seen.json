@@ -413,12 +413,13 @@
       "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
       "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
       "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
+      "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "https://spectrum.ieee.org/ai-reasoning-models-security-risk"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
