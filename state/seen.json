@@ -236,7 +236,8 @@
       "https://www.smithsonianmag.com/history/harriet-beecher-stowe-wrote-work-fiction-that-seemed-so-real-changed-history-country-180988826/",
       "https://www.smithsonianmag.com/history/during-world-war-i-this-woman-asked-americans-to-welcome-immigrants-and-urged-new-arrivals-to-assimilate-180989035/",
       "https://www.smithsonianmag.com/history/how-tens-of-thousands-of-irish-immigrants-led-the-patriots-to-victory-during-the-american-revolution-180989052/",
-      "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
+      "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+      "https://www.smithsonianmag.com/history/take-an-exclusive-look-at-three-newly-discovered-medieval-shipwrecks-in-menorcas-cove-of-mysteries-180989092/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -422,7 +423,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
