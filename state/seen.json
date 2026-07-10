@@ -73,7 +73,8 @@
       "https://spectrum.ieee.org/history-of-fireworks",
       "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
       "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
-      "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
+      "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+      "https://spectrum.ieee.org/ukraine-ground-drones"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -423,7 +424,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
