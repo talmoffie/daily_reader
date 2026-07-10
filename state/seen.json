@@ -256,7 +256,8 @@
       "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
       "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
       "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-      "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+      "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -406,7 +407,8 @@
       "https://spectrum.ieee.org/satellite-light-pollution-spherex-hubble",
       "https://spectrum.ieee.org/optical-metasurface-solar-telescope",
       "https://spectrum.ieee.org/history-of-fireworks",
-      "https://spectrum.ieee.org/orbital-data-center-hype"
+      "https://spectrum.ieee.org/orbital-data-center-hype",
+      "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -429,6 +431,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
