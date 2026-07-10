@@ -206,7 +206,8 @@
       "https://theconversation.com/alcohol-is-one-of-the-most-dangerous-drugs-yet-its-presence-is-ubiquitous-in-social-settings-and-celebrations-278631",
       "https://theconversation.com/a-journalists-journey-through-faith-and-identity-286324",
       "https://theconversation.com/when-shareholder-activists-attack-a-company-its-rivals-may-feel-the-heat-too-and-change-their-ways-285042",
-      "https://theconversation.com/creating-synthetic-life-in-a-lab-spudcell-falls-short-of-the-goal-but-raises-even-more-useful-questions-286762"
+      "https://theconversation.com/creating-synthetic-life-in-a-lab-spudcell-falls-short-of-the-goal-but-raises-even-more-useful-questions-286762",
+      "https://theconversation.com/the-ball-is-round-and-contrary-to-some-keepers-views-in-this-world-cup-it-has-performed-just-fine-287044"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -427,7 +428,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
 }
