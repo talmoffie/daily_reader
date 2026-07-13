@@ -465,3 +465,4 @@
 2026-07-12T18:02:42Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/how-redefining-one-word-strips-the-endangered-species-acts-ability-to-protect-vital-habitat-287348
 2026-07-12T20:05:57Z slot=bonus result=no_article
 2026-07-13T08:08:39Z slot=university_science_a result=no_article
+2026-07-13T11:58:44Z slot=university_science_b source=ieee_ai degraded=False posted=False url=https://spectrum.ieee.org/large-tabular-models-nexus
