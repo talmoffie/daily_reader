@@ -470,3 +470,4 @@
 2026-07-13T18:37:15Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun-283570
 2026-07-13T20:15:13Z slot=bonus result=no_article
 2026-07-14T07:02:23Z slot=university_science_a source=quanta_physics degraded=False posted=False url=https://www.quantamagazine.org/why-am-i-left-handed-20260713/
+2026-07-14T10:43:19Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/humanoid-robots-japan
