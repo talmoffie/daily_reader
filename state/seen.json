@@ -176,7 +176,8 @@
       "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
       "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
       "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
-      "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
+      "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
+      "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -441,7 +442,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
