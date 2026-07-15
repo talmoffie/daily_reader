@@ -271,7 +271,8 @@
       "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
       "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
       "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
+      "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -450,6 +451,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "quanta_qm"
   }
 }
