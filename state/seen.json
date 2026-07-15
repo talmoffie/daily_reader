@@ -132,7 +132,8 @@
       "https://phys.org/news/2026-07-cultural-safety-isnt-buzzword-vital.html",
       "https://phys.org/news/2026-07-newborn-stars-rich-gas-ancient.html",
       "https://phys.org/news/2026-07-voyage-plastic-bottle-cap-hitchhiking.html",
-      "https://phys.org/news/2026-07-climate-south-africa-food-businesses.html"
+      "https://phys.org/news/2026-07-climate-south-africa-food-businesses.html",
+      "https://phys.org/news/2026-07-antarctic-slowdown-global-ocean-circulation.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -446,7 +447,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
