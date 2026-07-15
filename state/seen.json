@@ -439,12 +439,13 @@
       "https://spectrum.ieee.org/ai-energy-systems-melbourne",
       "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
-      "https://spectrum.ieee.org/large-tabular-models-nexus"
+      "https://spectrum.ieee.org/large-tabular-models-nexus",
+      "https://spectrum.ieee.org/jailbreaking-llms"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
