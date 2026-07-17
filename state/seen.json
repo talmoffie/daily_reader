@@ -224,7 +224,8 @@
       "https://theconversation.com/how-redefining-one-word-strips-the-endangered-species-acts-ability-to-protect-vital-habitat-287348",
       "https://theconversation.com/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun-283570",
       "https://theconversation.com/building-a-long-term-base-on-the-moon-will-require-extensive-planning-a-planetary-geologist-describes-the-considerations-that-go-into-it-285899",
-      "https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350"
+      "https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350",
+      "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -456,7 +457,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
 }
