@@ -409,7 +409,9 @@
       "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
       "https://spectrum.ieee.org/ai-chip-design-fab-ucla",
       "https://spectrum.ieee.org/hybrid-phototransistor",
-      "https://spectrum.ieee.org/stacking-chips-sideways"
+      "https://spectrum.ieee.org/stacking-chips-sideways",
+      "https://spectrum.ieee.org/led-light-pollution",
+      "https://spectrum.ieee.org/high-bandwidth-flash"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -469,6 +471,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
