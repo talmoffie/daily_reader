@@ -187,7 +187,8 @@
       "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
       "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
       "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
-      "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
+      "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/"
     ],
     "the_conversation": [
       "https://theconversation.com/todays-bans-on-diy-repairs-of-everything-from-cell-phones-to-tractors-grew-out-of-hollywoods-fear-of-videotaping-280990",
@@ -465,7 +466,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
