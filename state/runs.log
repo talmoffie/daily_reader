@@ -501,3 +501,4 @@
 2026-07-19T18:01:17Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/why-you-let-down-your-guard-on-ads-when-scrolling-on-social-media-287129
 2026-07-19T20:07:21Z slot=bonus result=no_article
 2026-07-20T07:50:17Z slot=university_science_a result=no_article
+2026-07-20T11:42:30Z slot=university_science_b source=ieee_robotics degraded=True posted=False url=https://spectrum.ieee.org/video-friday-robotic-surgery
