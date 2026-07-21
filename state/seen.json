@@ -463,12 +463,13 @@
       "https://spectrum.ieee.org/large-tabular-models-nexus",
       "https://spectrum.ieee.org/jailbreaking-llms",
       "https://spectrum.ieee.org/invisible-spinning-drone",
-      "https://spectrum.ieee.org/fishery-satellite-surveillance"
+      "https://spectrum.ieee.org/fishery-satellite-surveillance",
+      "https://spectrum.ieee.org/eliza-chatbot-source-code"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
