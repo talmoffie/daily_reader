@@ -140,7 +140,8 @@
       "https://phys.org/news/2026-07-climate-south-africa-food-businesses.html",
       "https://phys.org/news/2026-07-antarctic-slowdown-global-ocean-circulation.html",
       "https://phys.org/news/2026-07-giant-planets-dark-detectors.html",
-      "https://phys.org/news/2026-07-methods-chemicals.html"
+      "https://phys.org/news/2026-07-methods-chemicals.html",
+      "https://phys.org/news/2026-07-cosmic-gymnastics-milky-underwent-flip.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
@@ -470,7 +471,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
