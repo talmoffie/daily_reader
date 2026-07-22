@@ -274,7 +274,8 @@
       "https://www.smithsonianmag.com/history/take-an-exclusive-look-at-three-newly-discovered-medieval-shipwrecks-in-menorcas-cove-of-mysteries-180989092/",
       "https://www.smithsonianmag.com/history/dna-reveals-the-identity-of-a-teenager-who-died-in-the-revolutionary-war-cracking-a-nearly-250-year-old-cold-case-180989095/",
       "https://www.smithsonianmag.com/history/thousands-intimate-photographs-reveal-the-everyday-lives-the-romanovs-russias-last-imperial-family-180989126/",
-      "https://www.smithsonianmag.com/history/was-there-ever-an-original-version-of-the-odyssey-and-do-we-need-to-worry-about-what-homer-would-think-180989143/"
+      "https://www.smithsonianmag.com/history/was-there-ever-an-original-version-of-the-odyssey-and-do-we-need-to-worry-about-what-homer-would-think-180989143/",
+      "https://www.smithsonianmag.com/history/this-indian-maharaja-saved-hundreds-of-polish-orphans-during-world-war-ii-offering-them-refuge-when-no-one-else-would-180989150/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -475,7 +476,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
