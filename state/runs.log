@@ -513,3 +513,4 @@
 2026-07-21T20:18:55Z slot=bonus result=no_article
 2026-07-22T07:28:41Z slot=university_science_a result=no_article
 2026-07-22T11:06:57Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/invisible-spinning-drone
+2026-07-22T15:00:55Z slot=sat_science source=nasa_news degraded=True posted=False url=https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/
