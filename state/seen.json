@@ -83,7 +83,8 @@
       "https://spectrum.ieee.org/humanoid-robots-japan",
       "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
       "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "https://spectrum.ieee.org/video-friday-robotic-surgery"
+      "https://spectrum.ieee.org/video-friday-robotic-surgery",
+      "https://spectrum.ieee.org/invisible-spinning-drone"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -471,7 +472,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"

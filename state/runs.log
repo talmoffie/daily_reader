@@ -512,3 +512,4 @@
 2026-07-21T18:21:18Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/5-lessons-from-20-years-of-climate-surveys-political-party-matters-but-it-doesnt-explain-everything-287056
 2026-07-21T20:18:55Z slot=bonus result=no_article
 2026-07-22T07:28:41Z slot=university_science_a result=no_article
+2026-07-22T11:06:57Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/invisible-spinning-drone
