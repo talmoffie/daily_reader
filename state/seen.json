@@ -375,7 +375,8 @@
       "https://spectrum.ieee.org/nvlink-fusion-optics",
       "https://spectrum.ieee.org/jailbreaking-llms",
       "https://spectrum.ieee.org/high-bandwidth-flash",
-      "https://spectrum.ieee.org/biggest-probabilistic-computer"
+      "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -449,7 +450,8 @@
       "https://spectrum.ieee.org/optical-metasurface-solar-telescope",
       "https://spectrum.ieee.org/history-of-fireworks",
       "https://spectrum.ieee.org/orbital-data-center-hype",
-      "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2"
+      "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2",
+      "https://spectrum.ieee.org/space-debris-atmosphere-burn-up"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -477,6 +479,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
