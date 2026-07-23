@@ -294,7 +294,8 @@
       "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
       "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
       "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/"
+      "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -420,7 +421,8 @@
       "https://spectrum.ieee.org/hybrid-phototransistor",
       "https://spectrum.ieee.org/stacking-chips-sideways",
       "https://spectrum.ieee.org/led-light-pollution",
-      "https://spectrum.ieee.org/high-bandwidth-flash"
+      "https://spectrum.ieee.org/high-bandwidth-flash",
+      "https://spectrum.ieee.org/sleep-monitoring-device"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -482,6 +484,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
