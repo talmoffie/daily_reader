@@ -460,7 +460,9 @@
       "https://spectrum.ieee.org/history-of-fireworks",
       "https://spectrum.ieee.org/orbital-data-center-hype",
       "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2",
-      "https://spectrum.ieee.org/space-debris-atmosphere-burn-up"
+      "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
+      "https://spectrum.ieee.org/gps-crash-probe"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -488,6 +490,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
