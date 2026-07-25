@@ -35,7 +35,8 @@
       "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "https://www.quantamagazine.org/why-am-i-left-handed-20260713/",
       "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
-      "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/"
+      "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
+      "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/"
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/open-source-robot-ai-platforms",
@@ -486,7 +487,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_cs",
+    "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
