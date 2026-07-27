@@ -439,7 +439,8 @@
       "https://spectrum.ieee.org/led-light-pollution",
       "https://spectrum.ieee.org/high-bandwidth-flash",
       "https://spectrum.ieee.org/sleep-monitoring-device",
-      "https://spectrum.ieee.org/ai-in-robotics"
+      "https://spectrum.ieee.org/ai-in-robotics",
+      "https://spectrum.ieee.org/topological-material-nanowire-interconnect"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -475,7 +476,8 @@
       "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2",
       "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
       "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
-      "https://spectrum.ieee.org/gps-crash-probe"
+      "https://spectrum.ieee.org/gps-crash-probe",
+      "https://spectrum.ieee.org/skyroot-aerospace-vikram-1-launch"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -503,6 +505,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
