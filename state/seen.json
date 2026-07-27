@@ -290,7 +290,8 @@
       "https://www.smithsonianmag.com/history/dna-reveals-the-identity-of-a-teenager-who-died-in-the-revolutionary-war-cracking-a-nearly-250-year-old-cold-case-180989095/",
       "https://www.smithsonianmag.com/history/thousands-intimate-photographs-reveal-the-everyday-lives-the-romanovs-russias-last-imperial-family-180989126/",
       "https://www.smithsonianmag.com/history/was-there-ever-an-original-version-of-the-odyssey-and-do-we-need-to-worry-about-what-homer-would-think-180989143/",
-      "https://www.smithsonianmag.com/history/this-indian-maharaja-saved-hundreds-of-polish-orphans-during-world-war-ii-offering-them-refuge-when-no-one-else-would-180989150/"
+      "https://www.smithsonianmag.com/history/this-indian-maharaja-saved-hundreds-of-polish-orphans-during-world-war-ii-offering-them-refuge-when-no-one-else-would-180989150/",
+      "https://www.smithsonianmag.com/history/this-ship-sank-in-the-baltic-sea-with-presents-bound-for-a-romanov-czar-its-cargo-included-champagne-luxury-mineral-water-and-rare-meteorites-180989198/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -501,7 +502,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_semiconductors"
   }
 }
