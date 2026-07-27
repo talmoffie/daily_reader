@@ -341,7 +341,8 @@
       "https://spectrum.ieee.org/history-of-fireworks",
       "https://spectrum.ieee.org/planetary-defense-jaxa-hyabusa2",
       "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis"
+      "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
+      "https://spectrum.ieee.org/skyroot-aerospace-vikram-1-launch"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -497,7 +498,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
