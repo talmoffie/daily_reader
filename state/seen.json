@@ -90,7 +90,8 @@
       "https://spectrum.ieee.org/video-friday-robotic-surgery",
       "https://spectrum.ieee.org/invisible-spinning-drone",
       "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "https://spectrum.ieee.org/video-friday-physical-ai-robotics"
+      "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+      "https://spectrum.ieee.org/ai-in-robotics"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -503,7 +504,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
