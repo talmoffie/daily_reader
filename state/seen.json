@@ -314,7 +314,8 @@
       "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
       "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
-      "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/"
+      "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
+      "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -511,6 +512,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_computing"
+    "bonus": "quanta_qm"
   }
 }
