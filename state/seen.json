@@ -295,7 +295,8 @@
       "https://www.smithsonianmag.com/history/thousands-intimate-photographs-reveal-the-everyday-lives-the-romanovs-russias-last-imperial-family-180989126/",
       "https://www.smithsonianmag.com/history/was-there-ever-an-original-version-of-the-odyssey-and-do-we-need-to-worry-about-what-homer-would-think-180989143/",
       "https://www.smithsonianmag.com/history/this-indian-maharaja-saved-hundreds-of-polish-orphans-during-world-war-ii-offering-them-refuge-when-no-one-else-would-180989150/",
-      "https://www.smithsonianmag.com/history/this-ship-sank-in-the-baltic-sea-with-presents-bound-for-a-romanov-czar-its-cargo-included-champagne-luxury-mineral-water-and-rare-meteorites-180989198/"
+      "https://www.smithsonianmag.com/history/this-ship-sank-in-the-baltic-sea-with-presents-bound-for-a-romanov-czar-its-cargo-included-champagne-luxury-mineral-water-and-rare-meteorites-180989198/",
+      "https://www.smithsonianmag.com/history/we-all-know-the-story-of-the-pompeii-victims-who-died-when-mount-vesuvius-erupted-2000-years-ago-archaeologists-are-still-learning-about-those-who-made-it-out-alive-180989207/"
     ],
     "quanta_qm": [
       "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
@@ -509,7 +510,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
   }
 }
