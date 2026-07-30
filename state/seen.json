@@ -257,7 +257,8 @@
       "https://theconversation.com/should-paper-checks-be-abolished-like-the-penny-287451",
       "https://theconversation.com/is-withholding-federal-counterterrorism-funds-from-states-as-fema-has-threatened-legal-287469",
       "https://theconversation.com/colorado-prepares-for-screwworms-as-the-pest-that-was-eradicated-in-1966-returns-to-the-us-286522",
-      "https://theconversation.com/mail-in-voting-trump-administration-appeals-to-supreme-court-to-revive-executive-order-setting-limits-rejected-by-lower-courts-288562"
+      "https://theconversation.com/mail-in-voting-trump-administration-appeals-to-supreme-court-to-revive-executive-order-setting-limits-rejected-by-lower-courts-288562",
+      "https://theconversation.com/americans-feel-the-sting-of-high-prices-every-day-so-why-does-the-fed-need-so-many-ways-to-measure-inflation-287559"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -512,7 +513,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
 }
