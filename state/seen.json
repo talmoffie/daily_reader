@@ -105,7 +105,6 @@
       "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-05-saturday-citations-rexes-guidance-scientists.html",
       "https://phys.org/news/2026-05-solar-11year-eruptions-flares.html",
       "https://phys.org/news/2026-05-mars-fungi-red-planet-regolith.html",
       "https://phys.org/news/2026-05-billion-years-big-galaxies.html",
@@ -154,7 +153,8 @@
       "https://phys.org/news/2026-07-ai-ethical-advice.html",
       "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
       "https://phys.org/news/2026-07-teens-advice-consent-teachers-sex.html",
-      "https://phys.org/news/2026-07-antimicrobials-tackle-deadly-drug-resistant.html"
+      "https://phys.org/news/2026-07-antimicrobials-tackle-deadly-drug-resistant.html",
+      "https://phys.org/news/2026-07-randomly-atoms-rows-columns-sustainable.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
@@ -513,7 +513,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
