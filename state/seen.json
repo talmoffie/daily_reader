@@ -43,7 +43,6 @@
       "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
       "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
       "https://spectrum.ieee.org/robotics-ai-breakthrough",
       "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
@@ -92,7 +91,8 @@
       "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
       "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
       "https://spectrum.ieee.org/ai-in-robotics",
-      "https://spectrum.ieee.org/robot-finger"
+      "https://spectrum.ieee.org/robot-finger",
+      "https://spectrum.ieee.org/open-source-robot-ai-platforms"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -514,7 +514,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
