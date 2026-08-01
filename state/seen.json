@@ -102,7 +102,8 @@
       "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
       "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
       "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
-      "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/"
+      "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/",
+      "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
     ],
     "physorg": [
       "https://phys.org/news/2026-05-solar-11year-eruptions-flares.html",
@@ -512,7 +513,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_physics",
+    "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
