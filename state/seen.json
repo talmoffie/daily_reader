@@ -159,7 +159,6 @@
       "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
       "https://www.nasa.gov/general/new-material-melt-moon-rocks/",
       "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
       "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
@@ -208,7 +207,8 @@
       "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
       "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
       "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
-      "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+      "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+      "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/"
     ],
     "the_conversation": [
       "https://theconversation.com/why-corpus-christi-faces-a-looming-water-shortage-and-what-might-help-283244",
@@ -518,7 +518,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
   }
