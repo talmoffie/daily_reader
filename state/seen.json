@@ -360,7 +360,6 @@
       "https://spectrum.ieee.org/gps-crash-probe"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/applied-materials-epic-center",
       "https://spectrum.ieee.org/distributed-inference-data-centers",
       "https://spectrum.ieee.org/orbital-inference-data-center",
       "https://spectrum.ieee.org/open-source-hardware",
@@ -409,7 +408,8 @@
       "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
       "https://spectrum.ieee.org/ibm-verifiable-quantum-advantage",
-      "https://spectrum.ieee.org/risk"
+      "https://spectrum.ieee.org/risk",
+      "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
