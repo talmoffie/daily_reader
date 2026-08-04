@@ -582,3 +582,4 @@
 2026-08-03T18:54:18Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/trump-administration-moves-to-block-public-from-enforcing-environmental-protection-laws-288687
 2026-08-03T20:27:08Z slot=bonus source=ieee_computing degraded=False posted=False url=https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation
 2026-08-04T07:30:20Z slot=university_science_a source=quanta_physics degraded=True posted=False url=https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/
+2026-08-04T11:21:28Z slot=university_science_b source=ieee_ai degraded=False posted=False url=https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
