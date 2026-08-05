@@ -45,7 +45,6 @@
       "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/robotics-ai-breakthrough",
       "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
       "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
       "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
@@ -94,7 +93,8 @@
       "https://spectrum.ieee.org/ai-in-robotics",
       "https://spectrum.ieee.org/robot-finger",
       "https://spectrum.ieee.org/open-source-robot-ai-platforms",
-      "https://spectrum.ieee.org/video-friday-humanoid-robot-learning"
+      "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
+      "https://spectrum.ieee.org/fcc-covered-list-mobile-robots"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -520,7 +520,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
