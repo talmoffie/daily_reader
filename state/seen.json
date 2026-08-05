@@ -160,7 +160,6 @@
       "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/general/new-material-melt-moon-rocks/",
       "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
       "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
       "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
@@ -209,7 +208,8 @@
       "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
       "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
       "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
-      "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/"
+      "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+      "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/"
     ],
     "the_conversation": [
       "https://theconversation.com/looksmaxxing-isnt-just-a-tiktok-trend-it-often-reflects-severe-body-image-issues-in-teen-boys-and-young-men-280567",
@@ -521,7 +521,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
