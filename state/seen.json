@@ -109,7 +109,6 @@
       "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-05-billion-years-big-galaxies.html",
       "https://phys.org/news/2026-05-culture-dating-apps-men-body.html",
       "https://phys.org/news/2026-05-forgotten-museum-fossil-rewrite-animal.html",
       "https://phys.org/news/2026-05-routine-questionnaire-thousands-children-school.html",
@@ -158,7 +157,8 @@
       "https://phys.org/news/2026-07-antimicrobials-tackle-deadly-drug-resistant.html",
       "https://phys.org/news/2026-07-randomly-atoms-rows-columns-sustainable.html",
       "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html",
-      "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html"
+      "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
+      "https://phys.org/news/2026-08-communities-effective-subsidies-wildfire-mitigation.html"
     ],
     "nasa_news": [
       "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
@@ -524,7 +524,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "smithsonian_history",
     "bonus": "ieee_aerospace_bonus"
   }
