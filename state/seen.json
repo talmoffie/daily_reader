@@ -457,7 +457,8 @@
       "https://spectrum.ieee.org/high-bandwidth-flash",
       "https://spectrum.ieee.org/sleep-monitoring-device",
       "https://spectrum.ieee.org/ai-in-robotics",
-      "https://spectrum.ieee.org/topological-material-nanowire-interconnect"
+      "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
+      "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -526,6 +527,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "smithsonian_history",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
