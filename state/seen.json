@@ -325,7 +325,8 @@
       "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
       "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
-      "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/"
+      "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -528,6 +529,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_semiconductors"
+    "bonus": "quanta_qm"
   }
 }
