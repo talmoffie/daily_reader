@@ -499,7 +499,8 @@
       "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
       "https://spectrum.ieee.org/gps-crash-probe",
       "https://spectrum.ieee.org/skyroot-aerospace-vikram-1-launch",
-      "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+      "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight",
+      "https://spectrum.ieee.org/water-on-mars-spirit-rover"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -531,6 +532,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
