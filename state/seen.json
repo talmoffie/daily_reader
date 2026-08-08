@@ -111,7 +111,6 @@
       "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-05-culture-dating-apps-men-body.html",
       "https://phys.org/news/2026-05-forgotten-museum-fossil-rewrite-animal.html",
       "https://phys.org/news/2026-05-routine-questionnaire-thousands-children-school.html",
       "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
@@ -160,7 +159,8 @@
       "https://phys.org/news/2026-07-randomly-atoms-rows-columns-sustainable.html",
       "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html",
       "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
-      "https://phys.org/news/2026-08-communities-effective-subsidies-wildfire-mitigation.html"
+      "https://phys.org/news/2026-08-communities-effective-subsidies-wildfire-mitigation.html",
+      "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
@@ -529,7 +529,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
