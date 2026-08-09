@@ -48,7 +48,6 @@
       "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
       "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
       "https://spectrum.ieee.org/video-friday-rabona-soccer",
       "https://spectrum.ieee.org/video-friday-material-handling-robots",
@@ -97,7 +96,8 @@
       "https://spectrum.ieee.org/open-source-robot-ai-platforms",
       "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
       "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
-      "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota"
+      "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+      "https://spectrum.ieee.org/video-friday-heavy-lift-drone"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -529,7 +529,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
