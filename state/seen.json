@@ -111,7 +111,6 @@
       "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-05-forgotten-museum-fossil-rewrite-animal.html",
       "https://phys.org/news/2026-05-routine-questionnaire-thousands-children-school.html",
       "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
       "https://phys.org/news/2026-05-jwst-stellar-bar-early-universe.html",
@@ -160,7 +159,8 @@
       "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html",
       "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
       "https://phys.org/news/2026-08-communities-effective-subsidies-wildfire-mitigation.html",
-      "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html"
+      "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
+      "https://phys.org/news/2026-08-monsoon-cooling-great-barrier-reef.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
@@ -531,7 +531,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
