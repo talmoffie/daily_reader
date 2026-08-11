@@ -216,7 +216,6 @@
       "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/"
     ],
     "the_conversation": [
-      "https://theconversation.com/far-removed-from-todays-global-juggernaut-soccer-was-born-in-the-well-heeled-boarding-schools-of-19th-century-england-282672",
       "https://theconversation.com/poop-tests-and-blood-tests-join-colonoscopy-as-options-for-colorectal-cancer-screening-284037",
       "https://theconversation.com/whats-wrong-with-how-us-and-uganda-plan-to-stop-ebola-spreading-284015",
       "https://theconversation.com/in-iran-wars-shadow-israels-renewed-lebanon-campaign-risks-repeating-failed-lessons-and-occupations-of-the-past-284052",
@@ -265,7 +264,8 @@
       "https://theconversation.com/the-financial-dilemma-that-wound-up-helping-us-churches-thrive-288332",
       "https://theconversation.com/trumps-slapdash-reflecting-pool-renovations-stand-in-stark-contrast-to-years-of-deliberation-and-engineering-ingenuity-that-went-into-its-creation-289006",
       "https://theconversation.com/democrats-have-a-working-class-voter-problem-that-progressives-like-abdul-el-sayed-are-still-struggling-to-solve-289294",
-      "https://theconversation.com/parents-putting-screens-in-front-of-their-kids-is-more-about-their-own-stress-than-other-factors-289115"
+      "https://theconversation.com/parents-putting-screens-in-front-of-their-kids-is-more-about-their-own-stress-than-other-factors-289115",
+      "https://theconversation.com/a-little-remembered-gilded-age-millionaire-helped-make-milk-safe-for-american-kids-through-his-retail-giving-276257"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -535,7 +535,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "smithsonian_history",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
