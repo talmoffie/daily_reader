@@ -621,3 +621,4 @@
 2026-08-11T18:00:50Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/a-little-remembered-gilded-age-millionaire-helped-make-milk-safe-for-american-kids-through-his-retail-giving-276257
 2026-08-11T19:59:37Z slot=bonus result=no_article
 2026-08-12T06:06:30Z slot=university_science_a result=no_article
+2026-08-12T09:59:10Z slot=university_science_b source=ieee_aerospace degraded=False posted=False url=https://spectrum.ieee.org/tritium-nuclear-battery

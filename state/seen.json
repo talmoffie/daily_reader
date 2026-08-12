@@ -367,7 +367,8 @@
       "https://spectrum.ieee.org/skyroot-aerospace-vikram-1-launch",
       "https://spectrum.ieee.org/gps-crash-probe",
       "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight",
-      "https://spectrum.ieee.org/water-on-mars-spirit-rover"
+      "https://spectrum.ieee.org/water-on-mars-spirit-rover",
+      "https://spectrum.ieee.org/tritium-nuclear-battery"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/distributed-inference-data-centers",
@@ -533,7 +534,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
