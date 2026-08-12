@@ -371,7 +371,6 @@
       "https://spectrum.ieee.org/tritium-nuclear-battery"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/distributed-inference-data-centers",
       "https://spectrum.ieee.org/orbital-inference-data-center",
       "https://spectrum.ieee.org/open-source-hardware",
       "https://spectrum.ieee.org/social-engineering-good",
@@ -420,7 +419,8 @@
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
       "https://spectrum.ieee.org/ibm-verifiable-quantum-advantage",
       "https://spectrum.ieee.org/risk",
-      "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
+      "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+      "https://spectrum.ieee.org/brazil-quantum"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -537,6 +537,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_computing"
   }
 }
