@@ -50,7 +50,6 @@
       "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/video-friday-rabona-soccer",
       "https://spectrum.ieee.org/video-friday-material-handling-robots",
       "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
       "https://spectrum.ieee.org/stretch-4-home-robot",
@@ -99,7 +98,8 @@
       "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
       "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
       "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
-      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://spectrum.ieee.org/recycling-robot"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -535,7 +535,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"

@@ -626,3 +626,4 @@
 2026-08-12T18:02:24Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749
 2026-08-12T20:00:49Z slot=bonus source=ieee_computing degraded=False posted=False url=https://spectrum.ieee.org/brazil-quantum
 2026-08-13T06:08:35Z slot=university_science_a source=quanta_physics degraded=False posted=False url=https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/
+2026-08-13T10:01:10Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/recycling-robot
