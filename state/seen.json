@@ -165,7 +165,6 @@
       "https://phys.org/news/2026-08-arctic-cyclone-clusters-batter-sea.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
       "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
       "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
       "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
@@ -214,7 +213,8 @@
       "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
       "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
       "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
-      "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/"
+      "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
+      "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/"
     ],
     "the_conversation": [
       "https://theconversation.com/whats-wrong-with-how-us-and-uganda-plan-to-stop-ebola-spreading-284015",
@@ -536,7 +536,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
