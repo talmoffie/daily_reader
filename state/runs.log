@@ -631,3 +631,4 @@
 2026-08-13T18:01:33Z slot=history_other source=smithsonian_history degraded=False posted=False url=https://www.smithsonianmag.com/history/the-hessians-were-supposed-to-quickly-end-the-american-revolution-instead-they-endured-years-of-battles-and-suffered-thousands-of-casualties-180989252/
 2026-08-13T19:55:28Z slot=bonus result=no_article
 2026-08-14T06:07:05Z slot=university_science_a result=no_article
+2026-08-14T09:57:52Z slot=university_science_b source=ieee_ai degraded=False posted=False url=https://spectrum.ieee.org/judgegpt-experiment

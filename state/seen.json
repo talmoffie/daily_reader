@@ -531,12 +531,13 @@
       "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
       "https://spectrum.ieee.org/risk",
       "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-      "https://spectrum.ieee.org/hugging-face-openai-cyberattack"
+      "https://spectrum.ieee.org/hugging-face-openai-cyberattack",
+      "https://spectrum.ieee.org/judgegpt-experiment"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "smithsonian_history",
     "bonus": "ieee_computing"
