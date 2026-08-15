@@ -468,7 +468,8 @@
       "https://spectrum.ieee.org/sleep-monitoring-device",
       "https://spectrum.ieee.org/ai-in-robotics",
       "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
-      "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
+      "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+      "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -542,6 +543,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
