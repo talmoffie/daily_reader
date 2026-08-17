@@ -332,7 +332,8 @@
       "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
       "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
       "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
+      "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -375,7 +376,6 @@
       "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/open-source-hardware",
       "https://spectrum.ieee.org/social-engineering-good",
       "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
       "https://spectrum.ieee.org/data-center-thermoelectric-generation",
@@ -424,7 +424,8 @@
       "https://spectrum.ieee.org/risk",
       "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
       "https://spectrum.ieee.org/brazil-quantum",
-      "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/"
+      "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+      "https://spectrum.ieee.org/amd-agent-swarms"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -547,6 +548,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "aeon",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_computing"
   }
 }
