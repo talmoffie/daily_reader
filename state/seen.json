@@ -537,13 +537,16 @@
       "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
       "https://spectrum.ieee.org/hugging-face-openai-cyberattack",
       "https://spectrum.ieee.org/judgegpt-experiment"
+    ],
+    "aeon": [
+      "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_semiconductors"
   }
 }
