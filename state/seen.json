@@ -166,7 +166,6 @@
       "https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
       "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
       "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
       "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
@@ -215,7 +214,8 @@
       "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
       "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
       "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
-      "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
+      "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
     ],
     "the_conversation": [
       "https://theconversation.com/pfas-in-ski-wax-despite-bans-these-forever-chemicals-linger-in-wax-rooms-study-shows-so-does-their-health-risk-282131",
@@ -542,7 +542,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
