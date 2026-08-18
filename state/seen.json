@@ -219,7 +219,6 @@
       "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
     ],
     "the_conversation": [
-      "https://theconversation.com/pfas-in-ski-wax-despite-bans-these-forever-chemicals-linger-in-wax-rooms-study-shows-so-does-their-health-risk-282131",
       "https://theconversation.com/how-businesses-with-ties-to-jeffrey-epstein-saw-norms-and-even-share-prices-suffer-283097",
       "https://theconversation.com/building-more-renewable-energy-sources-means-rethinking-land-use-for-agriculture-and-conservation-283024",
       "https://theconversation.com/what-pennsylvanias-ai-chatbot-lawsuit-teaches-us-about-the-psychology-behind-medical-trust-283865",
@@ -268,7 +267,8 @@
       "https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749",
       "https://theconversation.com/one-of-the-most-common-brain-disorders-is-one-of-the-most-misunderstood-how-functional-neurological-disorder-is-both-all-in-your-head-and-beyond-it-288048",
       "https://theconversation.com/staying-hopeful-and-true-to-oneself-is-a-lesson-these-5-kids-books-offer-to-kindergartners-and-other-children-289453",
-      "https://theconversation.com/small-businesses-at-the-gateways-to-americas-national-parks-face-4-big-risks-including-changing-boundaries-and-extreme-weather-288676"
+      "https://theconversation.com/small-businesses-at-the-gateways-to-americas-national-parks-face-4-big-risks-including-changing-boundaries-and-extreme-weather-288676",
+      "https://theconversation.com/severe-flooding-raises-deadly-overdose-risk-in-rural-appalachia-study-finds-and-the-harm-lasts-for-years-289293"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -549,7 +549,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
 }
