@@ -377,7 +377,6 @@
       "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/social-engineering-good",
       "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
       "https://spectrum.ieee.org/data-center-thermoelectric-generation",
       "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
@@ -426,7 +425,8 @@
       "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
       "https://spectrum.ieee.org/brazil-quantum",
       "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-      "https://spectrum.ieee.org/amd-agent-swarms"
+      "https://spectrum.ieee.org/amd-agent-swarms",
+      "https://spectrum.ieee.org/axiom-math-246-theorem-formalization"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
