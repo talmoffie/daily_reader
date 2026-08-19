@@ -334,7 +334,8 @@
       "https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/",
       "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
       "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-      "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
+      "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -551,6 +552,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "aeon",
-    "bonus": "ieee_computing"
+    "bonus": "quanta_qm"
   }
 }
