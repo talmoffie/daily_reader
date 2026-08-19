@@ -167,7 +167,6 @@
       "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
       "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
       "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
       "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
@@ -216,7 +215,8 @@
       "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
       "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
-      "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
+      "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+      "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/"
     ],
     "the_conversation": [
       "https://theconversation.com/how-businesses-with-ties-to-jeffrey-epstein-saw-norms-and-even-share-prices-suffer-283097",
@@ -548,7 +548,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
