@@ -52,7 +52,6 @@
       "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/stretch-4-home-robot",
       "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
       "https://spectrum.ieee.org/familiar-machines-and-magic",
       "https://spectrum.ieee.org/daimon-robotics-physical-ai",
@@ -101,7 +100,8 @@
       "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
       "https://spectrum.ieee.org/recycling-robot",
       "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
-      "https://spectrum.ieee.org/digital-signal-processing"
+      "https://spectrum.ieee.org/digital-signal-processing",
+      "https://spectrum.ieee.org/arctic-iceberg-drones"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -547,7 +547,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
