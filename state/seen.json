@@ -542,14 +542,15 @@
       "https://spectrum.ieee.org/amd-agent-swarms"
     ],
     "aeon": [
-      "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil"
+      "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
+      "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_computing"
   }
 }
