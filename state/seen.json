@@ -515,7 +515,8 @@
       "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight",
       "https://spectrum.ieee.org/water-on-mars-spirit-rover",
       "https://spectrum.ieee.org/tritium-nuclear-battery",
-      "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/"
+      "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+      "https://spectrum.ieee.org/canadian-rockets"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -554,6 +555,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
