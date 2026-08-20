@@ -116,7 +116,6 @@
       "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-dormant-black-hole-revives-years.html",
       "https://phys.org/news/2026-06-seas-eventually-mangroves-carbon.html",
       "https://phys.org/news/2026-06-jupiter-reveals-electrons-relativistic.html",
       "https://phys.org/news/2026-06-magnetic-field-binary-star-simulations.html",
@@ -165,7 +164,8 @@
       "https://phys.org/news/2026-08-arctic-cyclone-clusters-batter-sea.html",
       "https://phys.org/news/2026-08-human-blood-ancient-chinese-art.html",
       "https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html",
-      "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html"
+      "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html",
+      "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html"
     ],
     "nasa_news": [
       "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
@@ -552,7 +552,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "quanta_qm"
   }
