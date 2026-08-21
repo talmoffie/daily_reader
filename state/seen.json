@@ -169,7 +169,6 @@
       "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
       "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
       "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
       "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
@@ -218,7 +217,8 @@
       "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
       "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
-      "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/"
+      "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+      "https://science.nasa.gov/earth/europes-scorching-summer/"
     ],
     "the_conversation": [
       "https://theconversation.com/building-more-renewable-energy-sources-means-rethinking-land-use-for-agriculture-and-conservation-283024",
@@ -554,7 +554,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
