@@ -114,7 +114,8 @@
       "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
       "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/",
       "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
+      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+      "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
     ],
     "physorg": [
       "https://phys.org/news/2026-06-seas-eventually-mangroves-carbon.html",
@@ -553,7 +554,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_physics",
+    "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "aeon",
