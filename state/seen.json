@@ -118,7 +118,6 @@
       "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-seas-eventually-mangroves-carbon.html",
       "https://phys.org/news/2026-06-jupiter-reveals-electrons-relativistic.html",
       "https://phys.org/news/2026-06-magnetic-field-binary-star-simulations.html",
       "https://phys.org/news/2026-06-volcanic-eruptions-linked-famine-china.html",
@@ -167,7 +166,8 @@
       "https://phys.org/news/2026-08-human-blood-ancient-chinese-art.html",
       "https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html",
       "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html",
-      "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html"
+      "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html",
+      "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html"
     ],
     "nasa_news": [
       "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
@@ -557,7 +557,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
