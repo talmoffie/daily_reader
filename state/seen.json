@@ -222,7 +222,6 @@
       "https://science.nasa.gov/earth/europes-scorching-summer/"
     ],
     "the_conversation": [
-      "https://theconversation.com/building-more-renewable-energy-sources-means-rethinking-land-use-for-agriculture-and-conservation-283024",
       "https://theconversation.com/what-pennsylvanias-ai-chatbot-lawsuit-teaches-us-about-the-psychology-behind-medical-trust-283865",
       "https://theconversation.com/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole-282348",
       "https://theconversation.com/how-money-exchanges-between-house-members-shape-the-balance-of-power-in-congress-283568",
@@ -271,7 +270,8 @@
       "https://theconversation.com/staying-hopeful-and-true-to-oneself-is-a-lesson-these-5-kids-books-offer-to-kindergartners-and-other-children-289453",
       "https://theconversation.com/small-businesses-at-the-gateways-to-americas-national-parks-face-4-big-risks-including-changing-boundaries-and-extreme-weather-288676",
       "https://theconversation.com/severe-flooding-raises-deadly-overdose-risk-in-rural-appalachia-study-finds-and-the-harm-lasts-for-years-289293",
-      "https://theconversation.com/puerto-rico-is-rationing-water-but-many-residents-stopped-trusting-the-tap-long-before-the-drought-290044"
+      "https://theconversation.com/puerto-rico-is-rationing-water-but-many-residents-stopped-trusting-the-tap-long-before-the-drought-290044",
+      "https://theconversation.com/using-thunderquakes-to-x-ray-earth-a-new-study-shows-urban-seismology-in-action-289961"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -558,7 +558,7 @@
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
