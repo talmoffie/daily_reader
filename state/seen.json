@@ -170,7 +170,6 @@
       "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
       "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
       "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
@@ -219,7 +218,8 @@
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
       "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
       "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
-      "https://science.nasa.gov/earth/europes-scorching-summer/"
+      "https://science.nasa.gov/earth/europes-scorching-summer/",
+      "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
     ],
     "the_conversation": [
       "https://theconversation.com/what-pennsylvanias-ai-chatbot-lawsuit-teaches-us-about-the-psychology-behind-medical-trust-283865",
@@ -558,7 +558,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
