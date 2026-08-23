@@ -1,7 +1,6 @@
 {
   "sources": {
     "quanta_physics": [
-      "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
       "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
       "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
       "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
@@ -50,7 +49,8 @@
       "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
       "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
       "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
+      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+      "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/familiar-machines-and-magic",
@@ -556,7 +556,7 @@
     ]
   },
   "last_used": {
-    "university_science_a": "quanta_cs",
+    "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
