@@ -53,7 +53,6 @@
       "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/familiar-machines-and-magic",
       "https://spectrum.ieee.org/daimon-robotics-physical-ai",
       "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
       "https://spectrum.ieee.org/video-friday-humanoid-robot-production",
@@ -102,7 +101,8 @@
       "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
       "https://spectrum.ieee.org/digital-signal-processing",
       "https://spectrum.ieee.org/arctic-iceberg-drones",
-      "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding"
+      "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+      "https://spectrum.ieee.org/leadership-backing-innovation"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -557,7 +557,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
