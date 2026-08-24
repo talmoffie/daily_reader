@@ -478,7 +478,8 @@
       "https://spectrum.ieee.org/ai-in-robotics",
       "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
       "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
+      "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+      "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -562,6 +563,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
