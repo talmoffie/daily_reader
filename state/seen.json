@@ -170,7 +170,6 @@
       "https://phys.org/news/2026-08-free-space-optical-link-wireless.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
       "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
       "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
@@ -219,7 +218,8 @@
       "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
       "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
       "https://science.nasa.gov/earth/europes-scorching-summer/",
-      "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
+      "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
     ],
     "the_conversation": [
       "https://theconversation.com/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole-282348",
@@ -561,7 +561,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
