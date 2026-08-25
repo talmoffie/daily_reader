@@ -1,7 +1,6 @@
 {
   "sources": {
     "quanta_physics": [
-      "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
       "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
       "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
       "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
@@ -50,7 +49,8 @@
       "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
       "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
       "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-      "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
+      "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
     ],
     "ieee_robotics": [
       "https://spectrum.ieee.org/daimon-robotics-physical-ai",
