@@ -222,7 +222,6 @@
       "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
     ],
     "the_conversation": [
-      "https://theconversation.com/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole-282348",
       "https://theconversation.com/how-money-exchanges-between-house-members-shape-the-balance-of-power-in-congress-283568",
       "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540",
       "https://theconversation.com/el-nino-is-back-and-ocean-temperatures-are-already-near-record-highs-that-can-spell-disaster-for-fish-and-corals-285097",
@@ -271,7 +270,8 @@
       "https://theconversation.com/severe-flooding-raises-deadly-overdose-risk-in-rural-appalachia-study-finds-and-the-harm-lasts-for-years-289293",
       "https://theconversation.com/puerto-rico-is-rationing-water-but-many-residents-stopped-trusting-the-tap-long-before-the-drought-290044",
       "https://theconversation.com/using-thunderquakes-to-x-ray-earth-a-new-study-shows-urban-seismology-in-action-289961",
-      "https://theconversation.com/many-americans-are-moving-away-from-congregations-but-not-necessarily-from-religion-movies-plays-art-and-social-media-fill-the-gap-289940"
+      "https://theconversation.com/many-americans-are-moving-away-from-congregations-but-not-necessarily-from-religion-movies-plays-art-and-social-media-fill-the-gap-289940",
+      "https://theconversation.com/disappearing-lakes-old-photos-and-ai-are-helping-scientists-map-arctic-permafrost-thaw-in-near-real-time-290238"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -564,7 +564,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
 }
