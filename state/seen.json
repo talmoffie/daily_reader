@@ -338,7 +338,8 @@
       "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
       "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
       "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
+      "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+      "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -479,7 +480,8 @@
       "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
       "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
       "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
-      "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms"
+      "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+      "https://spectrum.ieee.org/rare-earth-shortage"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -565,6 +567,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
