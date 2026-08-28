@@ -118,7 +118,6 @@
       "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-volcanic-eruptions-linked-famine-china.html",
       "https://phys.org/news/2026-06-shoppers-based-proteins.html",
       "https://phys.org/news/2026-06-nickelate-superconductors-common-electronic-fingerprint.html",
       "https://phys.org/news/2026-06-ghost-dog-amazon-insights-mythical.html",
@@ -167,7 +166,8 @@
       "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html",
       "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html",
       "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
-      "https://phys.org/news/2026-08-dogs-subtle-social.html"
+      "https://phys.org/news/2026-08-dogs-subtle-social.html",
+      "https://phys.org/news/2026-08-widespread-ai-tools-harder-craft.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
@@ -567,7 +567,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
