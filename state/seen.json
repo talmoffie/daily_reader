@@ -170,7 +170,6 @@
       "https://phys.org/news/2026-08-widespread-ai-tools-harder-craft.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
       "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
       "https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/",
       "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
@@ -219,7 +218,8 @@
       "https://science.nasa.gov/earth/europes-scorching-summer/",
       "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
       "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
-      "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
+      "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
     ],
     "the_conversation": [
       "https://theconversation.com/how-money-exchanges-between-house-members-shape-the-balance-of-power-in-congress-283568",
@@ -567,7 +567,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
