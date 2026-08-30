@@ -563,14 +563,15 @@
       "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
       "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
       "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes"
+      "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
+      "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
 }
