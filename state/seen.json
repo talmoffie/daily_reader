@@ -381,7 +381,8 @@
       "https://spectrum.ieee.org/tritium-nuclear-battery",
       "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "https://spectrum.ieee.org/canadian-rockets",
-      "https://spectrum.ieee.org/gravitational-waves-quantum-mechanics-nasa"
+      "https://spectrum.ieee.org/gravitational-waves-quantum-mechanics-nasa",
+      "https://spectrum.ieee.org/bimodal-nuclear-engine"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/data-center-thermoelectric-generation",
@@ -567,7 +568,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
