@@ -385,7 +385,6 @@
       "https://spectrum.ieee.org/bimodal-nuclear-engine"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/data-center-thermoelectric-generation",
       "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
       "https://spectrum.ieee.org/pavona-open-source-hardware",
       "https://spectrum.ieee.org/ai-earth-observation-in-space",
@@ -434,7 +433,8 @@
       "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "https://spectrum.ieee.org/amd-agent-swarms",
       "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
-      "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
+      "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "https://spectrum.ieee.org/europes-ai-drive"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -483,7 +483,8 @@
       "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
       "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
       "https://spectrum.ieee.org/rare-earth-shortage",
-      "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing"
+      "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
+      "https://spectrum.ieee.org/europes-ai-drive"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -572,6 +573,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "aeon",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
