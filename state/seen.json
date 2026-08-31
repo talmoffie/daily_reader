@@ -53,7 +53,6 @@
       "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/video-friday-humanoid-robot-production",
       "https://spectrum.ieee.org/video-friday-ping-pong-robot",
       "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
       "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
@@ -102,7 +101,8 @@
       "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
       "https://spectrum.ieee.org/leadership-backing-innovation",
       "https://spectrum.ieee.org/video-friday-unitree-superhuman",
-      "https://spectrum.ieee.org/video-friday-microduck-robot"
+      "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "https://spectrum.ieee.org/ollobot-ai-companion-robot"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -569,7 +569,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
