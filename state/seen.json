@@ -386,7 +386,6 @@
       "https://spectrum.ieee.org/bimodal-nuclear-spacecraft"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
       "https://spectrum.ieee.org/pavona-open-source-hardware",
       "https://spectrum.ieee.org/ai-earth-observation-in-space",
       "https://spectrum.ieee.org/the-fog-cloud-encryption",
@@ -435,7 +434,8 @@
       "https://spectrum.ieee.org/amd-agent-swarms",
       "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
       "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "https://spectrum.ieee.org/europes-ai-drive"
+      "https://spectrum.ieee.org/europes-ai-drive",
+      "https://spectrum.ieee.org/ai-inference-distributed-computing"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -574,6 +574,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_computing"
   }
 }
