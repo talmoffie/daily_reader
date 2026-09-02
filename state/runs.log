@@ -730,3 +730,4 @@
 2026-09-01T17:07:24Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/white-house-ballroom-cleared-for-now-but-question-remains-can-president-legally-use-donations-to-build-it-290921
 2026-09-01T19:42:08Z slot=bonus source=ieee_computing degraded=False posted=False url=https://spectrum.ieee.org/ai-inference-distributed-computing
 2026-09-01T21:37:07Z slot=bonus result=no_article
+2026-09-02T09:10:30Z slot=university_science_b source=ieee_robotics degraded=True posted=False url=https://spectrum.ieee.org/president-ieee-note-september-2026
