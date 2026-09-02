@@ -118,7 +118,6 @@
       "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-ghost-dog-amazon-insights-mythical.html",
       "https://phys.org/news/2026-06-galaxy-early-universe.html",
       "https://phys.org/news/2026-06-ai-reshape-indigenous-ranger.html",
       "https://phys.org/news/2026-06-ancient-bacteria-agriculture-biggest.html",
@@ -167,7 +166,8 @@
       "https://phys.org/news/2026-08-dogs-subtle-social.html",
       "https://phys.org/news/2026-08-widespread-ai-tools-harder-craft.html",
       "https://phys.org/news/2026-08-picture-eagle-migrations.html",
-      "https://phys.org/news/2026-08-solar-orbiter-ion-magnetic-boundary.html"
+      "https://phys.org/news/2026-08-solar-orbiter-ion-magnetic-boundary.html",
+      "https://phys.org/news/2026-09-years-blue-mountains-forests-havent.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
@@ -572,7 +572,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
