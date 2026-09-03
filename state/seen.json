@@ -170,7 +170,6 @@
       "https://phys.org/news/2026-09-farewell-black-spruce-climate-pests.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/",
       "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
       "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
       "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
@@ -219,7 +218,8 @@
       "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
       "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
       "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
-      "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/"
+      "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
+      "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
     ],
     "the_conversation": [
       "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540",
@@ -574,7 +574,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
