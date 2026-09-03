@@ -339,7 +339,8 @@
       "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
       "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
       "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
-      "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+      "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -576,6 +577,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "quanta_qm"
   }
 }
