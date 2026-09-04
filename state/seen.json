@@ -118,7 +118,6 @@
       "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-ai-reshape-indigenous-ranger.html",
       "https://phys.org/news/2026-06-ancient-bacteria-agriculture-biggest.html",
       "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html",
       "https://phys.org/news/2026-06-chemical-impurities-carbon-surfaces-superslippery.html",
@@ -167,7 +166,8 @@
       "https://phys.org/news/2026-08-picture-eagle-migrations.html",
       "https://phys.org/news/2026-08-solar-orbiter-ion-magnetic-boundary.html",
       "https://phys.org/news/2026-09-years-blue-mountains-forests-havent.html",
-      "https://phys.org/news/2026-09-farewell-black-spruce-climate-pests.html"
+      "https://phys.org/news/2026-09-farewell-black-spruce-climate-pests.html",
+      "https://phys.org/news/2026-09-climate-banks-disaster.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
@@ -575,7 +575,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
