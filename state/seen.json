@@ -119,7 +119,6 @@
       "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-ancient-bacteria-agriculture-biggest.html",
       "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html",
       "https://phys.org/news/2026-06-chemical-impurities-carbon-surfaces-superslippery.html",
       "https://phys.org/news/2026-06-australia-tackle-unemployment-suicide.html",
@@ -168,7 +167,8 @@
       "https://phys.org/news/2026-08-solar-orbiter-ion-magnetic-boundary.html",
       "https://phys.org/news/2026-09-years-blue-mountains-forests-havent.html",
       "https://phys.org/news/2026-09-farewell-black-spruce-climate-pests.html",
-      "https://phys.org/news/2026-09-climate-banks-disaster.html"
+      "https://phys.org/news/2026-09-climate-banks-disaster.html",
+      "https://phys.org/news/2026-08-scientists-narwhals-nature-straight-tusk.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
@@ -577,7 +577,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
