@@ -571,14 +571,15 @@
       "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
       "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
       "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
-      "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall"
+      "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall",
+      "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "quanta_qm"
   }
 }
