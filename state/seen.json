@@ -223,7 +223,6 @@
       "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
     ],
     "the_conversation": [
-      "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540",
       "https://theconversation.com/el-nino-is-back-and-ocean-temperatures-are-already-near-record-highs-that-can-spell-disaster-for-fish-and-corals-285097",
       "https://theconversation.com/efforts-to-combat-climate-change-often-exclude-indigenous-people-and-they-may-not-have-any-recourse-283954",
       "https://theconversation.com/this-successful-arctic-fishing-treaty-has-kept-russia-china-the-us-and-others-working-together-for-5-years-it-could-be-a-model-for-future-diplomacy-284820",
@@ -272,7 +271,8 @@
       "https://theconversation.com/using-thunderquakes-to-x-ray-earth-a-new-study-shows-urban-seismology-in-action-289961",
       "https://theconversation.com/many-americans-are-moving-away-from-congregations-but-not-necessarily-from-religion-movies-plays-art-and-social-media-fill-the-gap-289940",
       "https://theconversation.com/disappearing-lakes-old-photos-and-ai-are-helping-scientists-map-arctic-permafrost-thaw-in-near-real-time-290238",
-      "https://theconversation.com/white-house-ballroom-cleared-for-now-but-question-remains-can-president-legally-use-donations-to-build-it-290921"
+      "https://theconversation.com/white-house-ballroom-cleared-for-now-but-question-remains-can-president-legally-use-donations-to-build-it-290921",
+      "https://theconversation.com/what-comes-next-for-the-1-million-people-who-have-lost-or-will-soon-lose-temporary-protected-status-290292"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -580,7 +580,7 @@
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
 }
