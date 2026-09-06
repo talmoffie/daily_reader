@@ -563,7 +563,8 @@
       "https://spectrum.ieee.org/amd-agent-swarms",
       "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
       "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "https://spectrum.ieee.org/ai-engineer-skills"
+      "https://spectrum.ieee.org/ai-engineer-skills",
+      "https://spectrum.ieee.org/ai-inference-distributed-computing"
     ],
     "aeon": [
       "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
@@ -577,7 +578,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "quanta_qm"
