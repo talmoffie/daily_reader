@@ -752,3 +752,4 @@
 2026-09-05T20:57:05Z slot=bonus result=no_article
 2026-09-06T09:01:28Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/cyborg-rescue-roach
 2026-09-06T12:35:30Z slot=university_science_b source=ieee_ai degraded=False posted=False url=https://spectrum.ieee.org/ai-inference-distributed-computing
+2026-09-06T15:57:16Z slot=sat_science source=nasa_news degraded=False posted=False url=https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/
