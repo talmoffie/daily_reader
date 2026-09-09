@@ -765,3 +765,4 @@
 2026-09-08T17:01:41Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/huachuma-the-andean-psychedelic-cactus-is-drawing-western-seekers-and-raising-ethical-questions-290218
 2026-09-08T19:41:02Z slot=bonus source=ieee_aerospace_bonus degraded=False posted=False url=https://spectrum.ieee.org/ai-wildfire-detection
 2026-09-08T21:36:56Z slot=bonus result=no_article
+2026-09-09T09:17:13Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta
