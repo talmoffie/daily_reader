@@ -171,7 +171,6 @@
       "https://phys.org/news/2026-09-ocean-acidification-disrupt-diatoms-carbon.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
       "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
       "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
       "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
@@ -220,7 +219,8 @@
       "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
       "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
       "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-      "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+      "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
     ],
     "the_conversation": [
       "https://theconversation.com/efforts-to-combat-climate-change-often-exclude-indigenous-people-and-they-may-not-have-any-recourse-283954",
@@ -584,7 +584,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
