@@ -579,14 +579,15 @@
       "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
       "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall",
       "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
-      "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists"
+      "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
+      "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
 }
