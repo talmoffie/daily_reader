@@ -119,7 +119,6 @@
       "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html",
       "https://phys.org/news/2026-06-bread-beer-alluring-yeast-species.html",
       "https://phys.org/news/2026-06-student-sighting-microwhip-scorpion-daintree.html",
       "https://phys.org/news/2026-06-ai-protein-virus-shells-reshape.html",
@@ -168,7 +167,8 @@
       "https://phys.org/news/2026-09-reconstructed-ancient-protein-bacterial-enzymes.html",
       "https://phys.org/news/2026-09-career-doesnt-expats-stronger.html",
       "https://phys.org/news/2026-09-australia-math-results-alltime-story.html",
-      "https://phys.org/news/2026-09-ocean-acidification-disrupt-diatoms-carbon.html"
+      "https://phys.org/news/2026-09-ocean-acidification-disrupt-diatoms-carbon.html",
+      "https://phys.org/news/2026-09-sea-shorebirds-critical-coastal-habitat.html"
     ],
     "nasa_news": [
       "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
@@ -585,7 +585,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
