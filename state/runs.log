@@ -792,3 +792,4 @@
 2026-09-13T21:15:24Z slot=bonus result=no_article
 2026-09-14T10:11:47Z slot=university_science_b source=ieee_ai degraded=True posted=False url=https://spectrum.ieee.org/ai-watermark-text-anthropic-openai
 2026-09-14T15:38:29Z slot=sat_science source=nasa_news degraded=False posted=False url=https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/
+2026-09-14T18:19:00Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/physicists-zoom-into-the-birth-of-cosmic-rainstorms-with-new-cern-study-280890
