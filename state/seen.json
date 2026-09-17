@@ -585,14 +585,15 @@
       "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
       "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
       "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation",
-      "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions"
+      "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
+      "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_computing"
   }
 }
