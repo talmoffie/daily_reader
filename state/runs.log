@@ -807,3 +807,4 @@
 2026-09-16T17:26:06Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/pardoned-by-trump-and-escaping-charges-at-home-ex-honduran-leaders-case-shows-a-nations-struggle-for-sovereignty-290009
 2026-09-16T19:50:17Z slot=bonus source=ieee_computing degraded=False posted=False url=https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone
 2026-09-16T21:55:26Z slot=bonus result=no_article
+2026-09-17T09:43:26Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone
