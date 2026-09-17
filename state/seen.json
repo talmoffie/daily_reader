@@ -342,7 +342,8 @@
       "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
       "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
       "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-      "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/"
+      "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -594,6 +595,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "aeon",
-    "bonus": "ieee_computing"
+    "bonus": "quanta_qm"
   }
 }
