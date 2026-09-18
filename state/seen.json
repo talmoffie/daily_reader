@@ -171,7 +171,6 @@
       "https://phys.org/news/2026-09-handheld-scanner-lab-quality-chemical.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
       "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
       "https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/",
       "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
@@ -220,7 +219,8 @@
       "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
       "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
       "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
-      "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
+      "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
     ],
     "the_conversation": [
       "https://theconversation.com/why-fatherhood-matters-more-than-ever-before-283850",
@@ -594,7 +594,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "quanta_qm"
   }
