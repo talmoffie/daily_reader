@@ -575,7 +575,8 @@
       "https://spectrum.ieee.org/silico-ai-interpretability",
       "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
       "https://spectrum.ieee.org/llms-for-chip-design",
-      "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone"
+      "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "https://spectrum.ieee.org/adversarial-fashion"
     ],
     "aeon": [
       "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
@@ -593,7 +594,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "ieee_computing"
