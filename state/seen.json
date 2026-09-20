@@ -119,7 +119,6 @@
       "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-arrow-radio-galaxy-citizen-scientist.html",
       "https://phys.org/news/2026-06-female-guppies-rare-males-evolution.html",
       "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html",
       "https://phys.org/news/2026-06-sun-outbursts-briefly-weaken-events.html",
@@ -168,7 +167,8 @@
       "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html",
       "https://phys.org/news/2026-09-invasive-ants-cooked-beef-seeds.html",
       "https://phys.org/news/2026-09-handheld-scanner-lab-quality-chemical.html",
-      "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html"
+      "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html",
+      "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/",
@@ -595,7 +595,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "ieee_computing"
   }
