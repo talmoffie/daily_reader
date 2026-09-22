@@ -393,7 +393,6 @@
       "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/rare-earth-free-magnets",
       "https://spectrum.ieee.org/sparse-ai",
       "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
       "https://spectrum.ieee.org/gpu-performance-comparison",
@@ -442,7 +441,8 @@
       "https://spectrum.ieee.org/inference-hardware-revolution",
       "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
       "https://spectrum.ieee.org/superconducting-transistors",
-      "https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5"
+      "https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5",
+      "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
@@ -541,7 +541,8 @@
       "https://spectrum.ieee.org/bimodal-nuclear-engine",
       "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "https://spectrum.ieee.org/ai-wildfire-detection",
-      "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission"
+      "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
+      "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -599,6 +600,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "aeon",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
