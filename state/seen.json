@@ -343,7 +343,8 @@
       "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
       "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
       "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/"
+      "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+      "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -494,7 +495,8 @@
       "https://spectrum.ieee.org/rare-earth-shortage",
       "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
       "https://spectrum.ieee.org/europes-ai-drive",
-      "https://spectrum.ieee.org/llms-for-chip-design"
+      "https://spectrum.ieee.org/llms-for-chip-design",
+      "https://spectrum.ieee.org/ultrafast-lasers-europe"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
@@ -601,6 +603,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "ieee_semiconductors"
   }
 }
