@@ -390,7 +390,8 @@
       "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
       "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "https://spectrum.ieee.org/ai-wildfire-detection",
-      "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission"
+      "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
+      "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/sparse-ai",
@@ -597,7 +598,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
