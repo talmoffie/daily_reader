@@ -223,7 +223,6 @@
       "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
     ],
     "the_conversation": [
-      "https://theconversation.com/rural-areas-lag-behind-in-cancer-treatment-and-prevention-even-as-rich-urban-areas-increasingly-leave-dying-from-cancer-in-the-rearview-278381",
       "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
       "https://theconversation.com/quantum-sensors-could-spot-hidden-damage-in-the-thousands-of-us-bridges-rated-structurally-deficient-283569",
       "https://theconversation.com/toy-story-5s-lilypad-is-an-indictment-of-the-world-that-birthed-the-ipad-kid-285049",
@@ -272,7 +271,8 @@
       "https://theconversation.com/huachuma-the-andean-psychedelic-cactus-is-drawing-western-seekers-and-raising-ethical-questions-290218",
       "https://theconversation.com/physicists-zoom-into-the-birth-of-cosmic-rainstorms-with-new-cern-study-280890",
       "https://theconversation.com/pardoned-by-trump-and-escaping-charges-at-home-ex-honduran-leaders-case-shows-a-nations-struggle-for-sovereignty-290009",
-      "https://theconversation.com/three-ts-will-dominate-trump-xi-summit-but-expect-little-movement-on-trade-less-on-taiwan-and-who-knows-on-tech-291819"
+      "https://theconversation.com/three-ts-will-dominate-trump-xi-summit-but-expect-little-movement-on-trade-less-on-taiwan-and-who-knows-on-tech-291819",
+      "https://theconversation.com/trump-speculates-on-diesel-fuel-export-ban-as-high-prices-ripple-across-us-economy-292323"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -600,7 +600,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
