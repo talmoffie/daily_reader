@@ -171,7 +171,6 @@
       "https://phys.org/news/2026-09-seabed-surveys-isles-scilly-species.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
       "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
       "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
       "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
@@ -220,7 +219,8 @@
       "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
       "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
       "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
-      "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
+      "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
+      "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
     ],
     "the_conversation": [
       "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
@@ -601,7 +601,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
