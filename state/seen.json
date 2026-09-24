@@ -53,7 +53,6 @@
       "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/ieee-education-week",
       "https://spectrum.ieee.org/tech-interview-prep",
       "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
       "https://spectrum.ieee.org/amazon-astro-robot-sound",
@@ -102,7 +101,8 @@
       "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
       "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
       "https://spectrum.ieee.org/humanoid-robot-safety",
-      "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
+      "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -600,7 +600,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_aerospace",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
