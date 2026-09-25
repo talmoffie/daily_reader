@@ -119,7 +119,6 @@
       "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-sun-outbursts-briefly-weaken-events.html",
       "https://phys.org/news/2026-06-people-worldwide-mental-abilities-inborn.html",
       "https://phys.org/news/2026-07-esa-outlines-high-tech-lander.html",
       "https://phys.org/news/2026-07-radio-outburst-black-hole-properties.html",
@@ -168,7 +167,8 @@
       "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html",
       "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
       "https://phys.org/news/2026-09-scientists-teleport-quantum-states-parallel.html",
-      "https://phys.org/news/2026-09-seabed-surveys-isles-scilly-species.html"
+      "https://phys.org/news/2026-09-seabed-surveys-isles-scilly-species.html",
+      "https://phys.org/news/2026-09-age-additives-affects-antimicrobial-resistance.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
@@ -603,7 +603,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "ieee_semiconductors"
   }
