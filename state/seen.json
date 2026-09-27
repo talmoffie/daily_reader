@@ -599,14 +599,15 @@
       "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
       "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
       "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
-      "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship"
+      "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
+      "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "quanta_qm"
   }
 }
