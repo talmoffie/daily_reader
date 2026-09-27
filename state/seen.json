@@ -583,7 +583,8 @@
       "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
       "https://spectrum.ieee.org/adversarial-fashion",
       "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
-      "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers"
+      "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
+      "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit"
     ],
     "aeon": [
       "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
@@ -603,7 +604,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
