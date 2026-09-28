@@ -546,7 +546,8 @@
       "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "https://spectrum.ieee.org/ai-wildfire-detection",
       "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
-      "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member"
+      "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
+      "https://spectrum.ieee.org/generative-ai-in-space-exploration"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -608,6 +609,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
