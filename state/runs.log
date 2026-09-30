@@ -877,3 +877,5 @@
 2026-09-30T10:48:15Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp
 2026-09-30T15:35:46Z slot=sat_science source=nasa_news degraded=False posted=False url=https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/
 2026-09-30T18:15:29Z slot=history_other source=the_conversation degraded=False posted=False url=https://theconversation.com/antarcticas-ice-loss-is-locked-in-and-extra-snowfall-wont-save-it-thats-bad-news-for-low-lying-coastal-areas-elsewhere-293066
+2026-09-30T21:06:14Z slot=bonus source=ieee_computing degraded=False posted=False url=https://spectrum.ieee.org/bloomberg-terminal
+2026-09-30T21:06:51Z slot=bonus source=ieee_aerospace_bonus degraded=False posted=False url=https://spectrum.ieee.org/jet-powered-shahed-drone
