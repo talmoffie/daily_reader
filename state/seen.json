@@ -605,14 +605,15 @@
       "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
       "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
       "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
-      "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer"
+      "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
+      "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
 }
