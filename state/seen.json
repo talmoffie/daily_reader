@@ -394,7 +394,8 @@
       "https://spectrum.ieee.org/ai-wildfire-detection",
       "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
       "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
-      "https://spectrum.ieee.org/generative-ai-in-space-exploration"
+      "https://spectrum.ieee.org/generative-ai-in-space-exploration",
+      "https://spectrum.ieee.org/jet-powered-shahed-drone"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
@@ -609,7 +610,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
