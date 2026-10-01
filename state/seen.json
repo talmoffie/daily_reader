@@ -119,7 +119,6 @@
       "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-07-radio-outburst-black-hole-properties.html",
       "https://phys.org/news/2026-06-bronze-bells-chinese-lord-year.html",
       "https://phys.org/news/2026-07-cultural-safety-isnt-buzzword-vital.html",
       "https://phys.org/news/2026-07-newborn-stars-rich-gas-ancient.html",
@@ -168,7 +167,8 @@
       "https://phys.org/news/2026-09-seabed-surveys-isles-scilly-species.html",
       "https://phys.org/news/2026-09-age-additives-affects-antimicrobial-resistance.html",
       "https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html",
-      "https://phys.org/news/2026-09-enantioresolution-bright-racemic-gold-silver.html"
+      "https://phys.org/news/2026-09-enantioresolution-bright-racemic-gold-silver.html",
+      "https://phys.org/news/2026-10-ready-age-children-unsupervised.html"
     ],
     "nasa_news": [
       "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
@@ -611,7 +611,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
