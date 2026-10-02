@@ -887,3 +887,4 @@
 2026-10-01T23:00:51Z slot=bonus result=no_article
 2026-10-02T10:47:12Z slot=university_science_b source=ieee_robotics degraded=False posted=False url=https://spectrum.ieee.org/robust-robot-hand
 2026-10-02T15:20:55Z slot=sat_science source=nasa_news degraded=False posted=False url=https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/
+2026-10-02T18:10:59Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/us-regulators-want-to-make-corporate-earnings-reports-less-frequent-but-investors-have-doubts-289338
