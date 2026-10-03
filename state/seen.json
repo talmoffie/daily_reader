@@ -119,7 +119,6 @@
       "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-06-bronze-bells-chinese-lord-year.html",
       "https://phys.org/news/2026-07-cultural-safety-isnt-buzzword-vital.html",
       "https://phys.org/news/2026-07-newborn-stars-rich-gas-ancient.html",
       "https://phys.org/news/2026-07-voyage-plastic-bottle-cap-hitchhiking.html",
@@ -168,7 +167,8 @@
       "https://phys.org/news/2026-09-age-additives-affects-antimicrobial-resistance.html",
       "https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html",
       "https://phys.org/news/2026-09-enantioresolution-bright-racemic-gold-silver.html",
-      "https://phys.org/news/2026-10-ready-age-children-unsupervised.html"
+      "https://phys.org/news/2026-10-ready-age-children-unsupervised.html",
+      "https://phys.org/news/2026-09-short-male-tokay-geckos.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
@@ -614,7 +614,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
