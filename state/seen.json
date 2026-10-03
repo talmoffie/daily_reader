@@ -171,7 +171,6 @@
       "https://phys.org/news/2026-09-short-male-tokay-geckos.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
       "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
       "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
       "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
@@ -220,7 +219,8 @@
       "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
       "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
       "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-      "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/"
+      "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
+      "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
     ],
     "the_conversation": [
       "https://theconversation.com/aid-is-on-the-way-after-venezuelas-earthquakes-but-its-not-clear-how-quickly-it-can-get-there-286206",
@@ -614,7 +614,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
