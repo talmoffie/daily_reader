@@ -610,14 +610,15 @@
       "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
       "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
       "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
-      "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew"
+      "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "quanta_qm"
   }
 }
