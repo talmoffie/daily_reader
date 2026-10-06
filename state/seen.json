@@ -171,7 +171,6 @@
       "https://phys.org/news/2026-09-steep-decline-prison-population.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
       "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
       "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
       "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
@@ -220,7 +219,8 @@
       "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
       "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
       "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
-      "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
+      "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+      "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/"
     ],
     "the_conversation": [
       "https://theconversation.com/fireworks-heat-and-drought-make-this-july-4th-a-recipe-for-wildfires-286138",
@@ -616,7 +616,7 @@
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
