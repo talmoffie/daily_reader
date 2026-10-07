@@ -451,8 +451,6 @@
       "https://spectrum.ieee.org/anderon-quantum-fab"
     ],
     "ieee_semiconductors": [
-      "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "https://spectrum.ieee.org/3d-chips",
       "https://spectrum.ieee.org/pavona-open-source-hardware",
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
       "https://spectrum.ieee.org/semiconductor-technology-roadmap",
@@ -500,7 +498,9 @@
       "https://spectrum.ieee.org/europes-ai-drive",
       "https://spectrum.ieee.org/llms-for-chip-design",
       "https://spectrum.ieee.org/ultrafast-lasers-europe",
-      "https://spectrum.ieee.org/anderon-quantum-fab"
+      "https://spectrum.ieee.org/anderon-quantum-fab",
+      "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+      "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
