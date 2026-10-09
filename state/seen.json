@@ -592,7 +592,8 @@
       "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
       "https://spectrum.ieee.org/ai-agent-security",
       "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "https://spectrum.ieee.org/6-guidelines-governing-ai"
+      "https://spectrum.ieee.org/6-guidelines-governing-ai",
+      "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
     ],
     "aeon": [
       "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
@@ -617,7 +618,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_semiconductors"
