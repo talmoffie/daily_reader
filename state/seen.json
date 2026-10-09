@@ -223,7 +223,6 @@
       "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
     ],
     "the_conversation": [
-      "https://theconversation.com/fireworks-heat-and-drought-make-this-july-4th-a-recipe-for-wildfires-286138",
       "https://theconversation.com/youve-never-heard-of-these-glaciers-but-theyre-becoming-critical-climate-havens-as-americas-iconic-mountain-glaciers-and-their-water-fade-285215",
       "https://theconversation.com/civility-requires-the-willingness-to-engage-a-dispute-with-a-neighbor-revealed-how-much-motivation-matters-274359",
       "https://theconversation.com/alcohol-is-one-of-the-most-dangerous-drugs-yet-its-presence-is-ubiquitous-in-social-settings-and-celebrations-278631",
@@ -272,7 +271,8 @@
       "https://theconversation.com/why-fuel-prices-may-go-higher-still-292853",
       "https://theconversation.com/antarcticas-ice-loss-is-locked-in-and-extra-snowfall-wont-save-it-thats-bad-news-for-low-lying-coastal-areas-elsewhere-293066",
       "https://theconversation.com/us-regulators-want-to-make-corporate-earnings-reports-less-frequent-but-investors-have-doubts-289338",
-      "https://theconversation.com/us-migrant-flights-to-liberia-evoke-troubling-history-of-sending-people-deemed-unwanted-to-the-west-african-nation-293186"
+      "https://theconversation.com/us-migrant-flights-to-liberia-evoke-troubling-history-of-sending-people-deemed-unwanted-to-the-west-african-nation-293186",
+      "https://theconversation.com/how-hurricane-isaias-broke-through-to-become-the-first-atlantic-hurricane-in-an-eerily-quiet-2026-season-294028"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -620,7 +620,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
 }
