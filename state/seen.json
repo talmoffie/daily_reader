@@ -551,7 +551,8 @@
       "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
       "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
       "https://spectrum.ieee.org/generative-ai-in-space-exploration",
-      "https://spectrum.ieee.org/jet-powered-shahed-drone"
+      "https://spectrum.ieee.org/jet-powered-shahed-drone",
+      "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -623,6 +624,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
