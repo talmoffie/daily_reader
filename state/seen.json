@@ -399,7 +399,6 @@
       "https://spectrum.ieee.org/jet-powered-shahed-drone"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/gpu-performance-comparison",
       "https://spectrum.ieee.org/fertilizer-shortage-precision-agricultur",
       "https://spectrum.ieee.org/ai-cybersecurity-mythos",
       "https://spectrum.ieee.org/ai-chip-design",
@@ -448,7 +447,8 @@
       "https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5",
       "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
       "https://spectrum.ieee.org/bloomberg-terminal",
-      "https://spectrum.ieee.org/anderon-quantum-fab"
+      "https://spectrum.ieee.org/anderon-quantum-fab",
+      "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/bolt-graphics-zeus-gpu",
@@ -503,7 +503,6 @@
       "https://spectrum.ieee.org/3d-chips"
     ],
     "ieee_aerospace_bonus": [
-      "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
       "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
       "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -552,7 +551,8 @@
       "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
       "https://spectrum.ieee.org/generative-ai-in-space-exploration",
       "https://spectrum.ieee.org/jet-powered-shahed-drone",
-      "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis"
+      "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis",
+      "https://spectrum.ieee.org/nasa-moon-base-landings"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
