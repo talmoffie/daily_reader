@@ -503,8 +503,6 @@
       "https://spectrum.ieee.org/3d-chips"
     ],
     "ieee_aerospace_bonus": [
-      "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
-      "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
       "https://spectrum.ieee.org/trinity-nuclear-test",
       "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
@@ -552,7 +550,9 @@
       "https://spectrum.ieee.org/generative-ai-in-space-exploration",
       "https://spectrum.ieee.org/jet-powered-shahed-drone",
       "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis",
-      "https://spectrum.ieee.org/nasa-moon-base-landings"
+      "https://spectrum.ieee.org/nasa-moon-base-landings",
+      "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
+      "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
