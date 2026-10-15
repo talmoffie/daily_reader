@@ -454,7 +454,6 @@
       "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/"
     ],
     "ieee_semiconductors": [
-      "https://spectrum.ieee.org/semiconductor-technology-roadmap",
       "https://spectrum.ieee.org/applied-materials-epic-center",
       "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
       "https://spectrum.ieee.org/inchfab",
@@ -503,7 +502,8 @@
       "https://spectrum.ieee.org/chip-design-academic-vs-industry",
       "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
       "https://spectrum.ieee.org/3d-chips",
-      "https://spectrum.ieee.org/semiconductor-research"
+      "https://spectrum.ieee.org/semiconductor-research",
+      "https://spectrum.ieee.org/monazite-rare-earth"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/taiwan-drone-supply-chain",
@@ -629,6 +629,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "aeon",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_semiconductors"
   }
 }
