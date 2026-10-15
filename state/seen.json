@@ -398,7 +398,8 @@
       "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
       "https://spectrum.ieee.org/generative-ai-in-space-exploration",
       "https://spectrum.ieee.org/jet-powered-shahed-drone",
-      "https://spectrum.ieee.org/nasa-moon-base-landings"
+      "https://spectrum.ieee.org/nasa-moon-base-landings",
+      "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/fertilizer-shortage-precision-agricultur",
@@ -624,7 +625,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_physics",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
