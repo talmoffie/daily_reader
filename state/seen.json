@@ -620,14 +620,15 @@
       "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
       "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
       "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
-      "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true"
+      "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+      "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "quanta_qm"
   }
 }
