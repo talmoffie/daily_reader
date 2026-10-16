@@ -223,7 +223,6 @@
       "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/"
     ],
     "the_conversation": [
-      "https://theconversation.com/alcohol-is-one-of-the-most-dangerous-drugs-yet-its-presence-is-ubiquitous-in-social-settings-and-celebrations-278631",
       "https://theconversation.com/a-journalists-journey-through-faith-and-identity-286324",
       "https://theconversation.com/when-shareholder-activists-attack-a-company-its-rivals-may-feel-the-heat-too-and-change-their-ways-285042",
       "https://theconversation.com/creating-synthetic-life-in-a-lab-spudcell-falls-short-of-the-goal-but-raises-even-more-useful-questions-286762",
@@ -272,7 +271,8 @@
       "https://theconversation.com/us-migrant-flights-to-liberia-evoke-troubling-history-of-sending-people-deemed-unwanted-to-the-west-african-nation-293186",
       "https://theconversation.com/how-hurricane-isaias-broke-through-to-become-the-first-atlantic-hurricane-in-an-eerily-quiet-2026-season-294028",
       "https://theconversation.com/anne-carsons-nobel-winning-genre-defying-work-bridges-the-gap-between-ancient-greek-literature-and-modern-life-294020",
-      "https://theconversation.com/philly-voters-care-about-local-issues-but-election-integrity-fears-make-them-wonder-if-their-vote-matters-291019"
+      "https://theconversation.com/philly-voters-care-about-local-issues-but-election-integrity-fears-make-them-wonder-if-their-vote-matters-291019",
+      "https://theconversation.com/remote-work-made-these-colleagues-more-open-with-each-other-not-less-291728"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -628,7 +628,7 @@
     "university_science_a": "quanta_physics",
     "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
 }
