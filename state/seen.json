@@ -507,7 +507,6 @@
       "https://spectrum.ieee.org/monazite-rare-earth"
     ],
     "ieee_aerospace_bonus": [
-      "https://spectrum.ieee.org/taiwan-drone-supply-chain",
       "https://spectrum.ieee.org/trinity-nuclear-test",
       "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
       "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars",
@@ -556,7 +555,8 @@
       "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis",
       "https://spectrum.ieee.org/nasa-moon-base-landings",
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
-      "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/"
+      "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
+      "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -633,6 +633,6 @@
     "university_science_b": "ieee_ai",
     "sat_science": "physorg",
     "history_other": "aeon",
-    "bonus": "ieee_semiconductors"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
