@@ -120,7 +120,6 @@
       "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-07-cosmic-gymnastics-milky-underwent-flip.html",
       "https://phys.org/news/2026-07-ai-ethical-advice.html",
       "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
       "https://phys.org/news/2026-07-teens-advice-consent-teachers-sex.html",
@@ -169,7 +168,8 @@
       "https://phys.org/news/2026-10-algorithm-arctic-sea-ice-months.html",
       "https://phys.org/news/2026-10-dog-link.html",
       "https://phys.org/news/2026-10-kids-teens-ai-chatbots-advice.html",
-      "https://phys.org/news/2026-10-scientists-reverse-coral.html"
+      "https://phys.org/news/2026-10-scientists-reverse-coral.html",
+      "https://phys.org/news/2026-10-octopus-patch-skin-reveals-pulse.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
@@ -631,7 +631,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
