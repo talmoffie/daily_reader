@@ -625,14 +625,15 @@
       "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
       "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
       "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
-      "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic"
+      "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
 }
