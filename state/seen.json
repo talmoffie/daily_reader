@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-10-octopus-patch-skin-reveals-pulse.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
       "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
       "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
       "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
@@ -221,7 +220,8 @@
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
       "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
       "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-      "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/"
+      "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+      "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
     ],
     "the_conversation": [
       "https://theconversation.com/when-shareholder-activists-attack-a-company-its-rivals-may-feel-the-heat-too-and-change-their-ways-285042",
@@ -632,7 +632,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_semiconductors"
   }
