@@ -224,7 +224,6 @@
       "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
     ],
     "the_conversation": [
-      "https://theconversation.com/when-shareholder-activists-attack-a-company-its-rivals-may-feel-the-heat-too-and-change-their-ways-285042",
       "https://theconversation.com/creating-synthetic-life-in-a-lab-spudcell-falls-short-of-the-goal-but-raises-even-more-useful-questions-286762",
       "https://theconversation.com/the-ball-is-round-and-contrary-to-some-keepers-views-in-this-world-cup-it-has-performed-just-fine-287044",
       "https://theconversation.com/how-redefining-one-word-strips-the-endangered-species-acts-ability-to-protect-vital-habitat-287348",
@@ -273,7 +272,8 @@
       "https://theconversation.com/anne-carsons-nobel-winning-genre-defying-work-bridges-the-gap-between-ancient-greek-literature-and-modern-life-294020",
       "https://theconversation.com/philly-voters-care-about-local-issues-but-election-integrity-fears-make-them-wonder-if-their-vote-matters-291019",
       "https://theconversation.com/remote-work-made-these-colleagues-more-open-with-each-other-not-less-291728",
-      "https://theconversation.com/a-pregnant-mom-let-her-5-year-old-stay-outside-to-collect-goose-feathers-and-was-placed-on-the-child-abuse-and-neglect-registry-293189"
+      "https://theconversation.com/a-pregnant-mom-let-her-5-year-old-stay-outside-to-collect-goose-feathers-and-was-placed-on-the-child-abuse-and-neglect-registry-293189",
+      "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -633,7 +633,7 @@
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
 }
