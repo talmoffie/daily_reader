@@ -120,7 +120,6 @@
       "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-07-ai-ethical-advice.html",
       "https://phys.org/news/2026-07-rare-blue-optical-transient-class.html",
       "https://phys.org/news/2026-07-teens-advice-consent-teachers-sex.html",
       "https://phys.org/news/2026-07-antimicrobials-tackle-deadly-drug-resistant.html",
@@ -169,7 +168,8 @@
       "https://phys.org/news/2026-10-dog-link.html",
       "https://phys.org/news/2026-10-kids-teens-ai-chatbots-advice.html",
       "https://phys.org/news/2026-10-scientists-reverse-coral.html",
-      "https://phys.org/news/2026-10-octopus-patch-skin-reveals-pulse.html"
+      "https://phys.org/news/2026-10-octopus-patch-skin-reveals-pulse.html",
+      "https://phys.org/news/2026-10-young-women-online-social-media.html"
     ],
     "nasa_news": [
       "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
@@ -633,7 +633,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_ai",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
