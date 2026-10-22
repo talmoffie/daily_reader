@@ -988,3 +988,4 @@
 2026-10-21T17:50:30Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228
 2026-10-21T20:24:45Z slot=bonus result=no_article
 2026-10-21T22:08:41Z slot=bonus result=no_article
+2026-10-22T09:43:08Z slot=university_science_b source=ieee_ai degraded=True posted=False url=https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
