@@ -53,7 +53,6 @@
       "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/"
     ],
     "ieee_robotics": [
-      "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
       "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "https://spectrum.ieee.org/video-friday-robotic-surgery",
       "https://spectrum.ieee.org/invisible-spinning-drone",
@@ -102,7 +101,8 @@
       "https://spectrum.ieee.org/china-rare-earth-minerals",
       "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
       "https://spectrum.ieee.org/variable-frequency-drives",
-      "https://spectrum.ieee.org/agility-robotics-digit-5-redesign"
+      "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace"
     ],
     "quanta_cs": [
       "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
@@ -633,7 +633,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_ai",
+    "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "aeon",
     "bonus": "ieee_computing"
