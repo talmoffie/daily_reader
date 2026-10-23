@@ -455,7 +455,6 @@
       "https://spectrum.ieee.org/engineers-lobbying-congress"
     ],
     "ieee_semiconductors": [
-      "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
       "https://spectrum.ieee.org/inchfab",
       "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip",
       "https://spectrum.ieee.org/gpu-performance-comparison",
@@ -504,7 +503,8 @@
       "https://spectrum.ieee.org/3d-chips",
       "https://spectrum.ieee.org/semiconductor-research",
       "https://spectrum.ieee.org/monazite-rare-earth",
-      "https://spectrum.ieee.org/community-college-semiconductors"
+      "https://spectrum.ieee.org/community-college-semiconductors",
+      "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/trinity-nuclear-test",
@@ -636,6 +636,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
