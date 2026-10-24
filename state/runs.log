@@ -998,3 +998,4 @@
 2026-10-23T17:39:44Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218
 2026-10-23T20:09:29Z slot=bonus source=ieee_semiconductors degraded=True posted=False url=https://spectrum.ieee.org/preethi-ashwath-chip-designer
 2026-10-23T21:52:08Z slot=bonus result=no_article
+2026-10-24T09:11:34Z slot=university_science_b source=ieee_ai degraded=True posted=False url=https://spectrum.ieee.org/engineers-lobbying-congress

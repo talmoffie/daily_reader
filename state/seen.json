@@ -602,7 +602,8 @@
       "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
       "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
       "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
-      "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+      "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "https://spectrum.ieee.org/engineers-lobbying-congress"
     ],
     "aeon": [
       "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
@@ -633,7 +634,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
