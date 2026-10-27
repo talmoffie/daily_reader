@@ -224,7 +224,6 @@
       "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/"
     ],
     "the_conversation": [
-      "https://theconversation.com/the-ball-is-round-and-contrary-to-some-keepers-views-in-this-world-cup-it-has-performed-just-fine-287044",
       "https://theconversation.com/how-redefining-one-word-strips-the-endangered-species-acts-ability-to-protect-vital-habitat-287348",
       "https://theconversation.com/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun-283570",
       "https://theconversation.com/building-a-long-term-base-on-the-moon-will-require-extensive-planning-a-planetary-geologist-describes-the-considerations-that-go-into-it-285899",
@@ -273,7 +272,8 @@
       "https://theconversation.com/remote-work-made-these-colleagues-more-open-with-each-other-not-less-291728",
       "https://theconversation.com/a-pregnant-mom-let-her-5-year-old-stay-outside-to-collect-goose-feathers-and-was-placed-on-the-child-abuse-and-neglect-registry-293189",
       "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
-      "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
+      "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218",
+      "https://theconversation.com/school-librarians-are-vanishing-from-michigan-schools-just-when-they-are-needed-most-291339"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -638,7 +638,7 @@
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
