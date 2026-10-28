@@ -507,8 +507,6 @@
       "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
     ],
     "ieee_aerospace_bonus": [
-      "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-      "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars",
       "https://spectrum.ieee.org/joby-air-taxi-2676635230",
       "https://spectrum.ieee.org/satellite-communication-laser-radio-transcelestial",
       "https://spectrum.ieee.org/ngvla-radio-telescope-vla-astronomy",
@@ -556,7 +554,9 @@
       "https://spectrum.ieee.org/cubesats-origami-antenna-foldable-reflectarray",
       "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
       "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-      "https://spectrum.ieee.org/zblan-fiber-optic-cables-iss"
+      "https://spectrum.ieee.org/zblan-fiber-optic-cables-iss",
+      "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+      "https://spectrum.ieee.org/faa-aviation-airwaves"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
