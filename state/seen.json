@@ -351,7 +351,6 @@
       "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/"
     ],
     "ieee_aerospace": [
-      "https://spectrum.ieee.org/trinity-nuclear-test",
       "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
       "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars",
       "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
@@ -400,7 +399,8 @@
       "https://spectrum.ieee.org/jet-powered-shahed-drone",
       "https://spectrum.ieee.org/nasa-moon-base-landings",
       "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis",
-      "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous"
+      "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "https://spectrum.ieee.org/faa-aviation-airwaves"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/ai-chip-design",
@@ -636,7 +636,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
