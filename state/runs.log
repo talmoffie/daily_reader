@@ -1026,3 +1026,4 @@
 2026-10-28T22:57:25Z slot=bonus result=no_article
 2026-10-29T11:09:59Z slot=university_science_b source=ieee_robotics degraded=True posted=False url=https://spectrum.ieee.org/systems-thinking-vital-in-ai
 2026-10-29T15:49:33Z slot=sat_science source=nasa_news degraded=True posted=False url=https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/
+2026-10-29T18:46:08Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/what-is-sharia-law-and-why-is-it-so-controversial-in-the-united-states-294224
