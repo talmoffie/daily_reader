@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
       "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
       "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
       "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
@@ -221,7 +220,8 @@
       "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
       "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/"
+      "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
     ],
     "the_conversation": [
       "https://theconversation.com/how-redefining-one-word-strips-the-endangered-species-acts-ability-to-protect-vital-habitat-287348",
@@ -638,7 +638,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
