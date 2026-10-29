@@ -348,7 +348,8 @@
       "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
       "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-      "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/"
+      "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
@@ -507,7 +508,6 @@
       "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
     ],
     "ieee_aerospace_bonus": [
-      "https://spectrum.ieee.org/joby-air-taxi-2676635230",
       "https://spectrum.ieee.org/satellite-communication-laser-radio-transcelestial",
       "https://spectrum.ieee.org/ngvla-radio-telescope-vla-astronomy",
       "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
@@ -556,7 +556,8 @@
       "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
       "https://spectrum.ieee.org/zblan-fiber-optic-cables-iss",
       "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-      "https://spectrum.ieee.org/faa-aviation-airwaves"
+      "https://spectrum.ieee.org/faa-aviation-airwaves",
+      "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
