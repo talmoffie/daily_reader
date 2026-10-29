@@ -1029,3 +1029,4 @@
 2026-10-29T18:46:08Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/what-is-sharia-law-and-why-is-it-so-controversial-in-the-united-states-294224
 2026-10-29T21:29:27Z slot=bonus source=quanta_qm degraded=True posted=False url=https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/
 2026-10-29T21:29:30Z slot=bonus source=ieee_aerospace_bonus degraded=True posted=False url=https://spectrum.ieee.org/infrastructure-inspection-airship-hylight
+2026-10-29T23:06:20Z slot=bonus result=no_article
