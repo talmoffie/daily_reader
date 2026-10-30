@@ -633,14 +633,15 @@
       "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
       "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
       "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death"
+      "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+      "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
 }
