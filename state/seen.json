@@ -349,7 +349,8 @@
       "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
       "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
       "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-      "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
+      "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars",
@@ -642,6 +643,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "aeon",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "quanta_qm"
   }
 }
