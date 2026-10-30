@@ -120,7 +120,6 @@
       "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html",
       "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
       "https://phys.org/news/2026-08-communities-effective-subsidies-wildfire-mitigation.html",
       "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
@@ -169,7 +168,8 @@
       "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
       "https://phys.org/news/2026-10-microorganisms-emissions-manure.html",
       "https://phys.org/news/2026-10-physicists-reveal-paradigm-fiber-growth.html",
-      "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html"
+      "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+      "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
@@ -639,7 +639,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
