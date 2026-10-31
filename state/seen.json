@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
       "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
       "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
       "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
@@ -221,7 +220,8 @@
       "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
       "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
+      "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+      "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
     ],
     "the_conversation": [
       "https://theconversation.com/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun-283570",
@@ -641,7 +641,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "quanta_qm"
   }
