@@ -353,7 +353,6 @@
       "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/"
     ],
     "ieee_aerospace": [
-      "https://spectrum.ieee.org/curiosity-rover-organic-molecules-mars",
       "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
       "https://spectrum.ieee.org/joby-air-taxi-2676635230",
       "https://spectrum.ieee.org/satellite-communication-laser-radio-transcelestial",
@@ -402,7 +401,8 @@
       "https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis",
       "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
       "https://spectrum.ieee.org/faa-aviation-airwaves",
-      "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight"
+      "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight",
+      "https://spectrum.ieee.org/beta-technologies-electric-aircraft"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/ai-chip-design",
@@ -640,7 +640,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
