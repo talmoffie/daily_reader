@@ -1063,3 +1063,5 @@
 2026-11-05T00:11:03Z slot=bonus result=no_article
 2026-11-05T12:49:41Z slot=university_science_b source=ieee_ai degraded=True posted=False url=https://spectrum.ieee.org/ai-small-business-mobile-money-startup
 2026-11-05T17:04:02Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/how-amendment-3-vaccine-mandates-and-school-vouchers-will-shape-florida-under-the-leadership-of-byron-donalds-295720
+2026-11-05T20:27:04Z slot=bonus source=ieee_computing degraded=True posted=False url=https://spectrum.ieee.org/2026-solar-eclipse
+2026-11-05T20:27:06Z slot=bonus source=ieee_aerospace_bonus degraded=True posted=False url=https://spectrum.ieee.org/2026-solar-eclipse
