@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-11-introduction-medieval-health-exposed-population.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
       "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
       "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
@@ -221,7 +220,8 @@
       "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
       "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
+      "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
     ],
     "the_conversation": [
       "https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350",
@@ -646,7 +646,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
