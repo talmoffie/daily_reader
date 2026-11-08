@@ -224,7 +224,6 @@
       "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
     ],
     "the_conversation": [
-      "https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350",
       "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156",
       "https://theconversation.com/why-you-let-down-your-guard-on-ads-when-scrolling-on-social-media-287129",
       "https://theconversation.com/amid-grinding-war-protesting-ukrainians-still-want-their-voices-and-values-heard-at-home-287823",
@@ -273,7 +272,8 @@
       "https://theconversation.com/school-librarians-are-vanishing-from-michigan-schools-just-when-they-are-needed-most-291339",
       "https://theconversation.com/what-is-sharia-law-and-why-is-it-so-controversial-in-the-united-states-294224",
       "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955",
-      "https://theconversation.com/how-amendment-3-vaccine-mandates-and-school-vouchers-will-shape-florida-under-the-leadership-of-byron-donalds-295720"
+      "https://theconversation.com/how-amendment-3-vaccine-mandates-and-school-vouchers-will-shape-florida-under-the-leadership-of-byron-donalds-295720",
+      "https://theconversation.com/pope-leos-trip-is-a-homecoming-to-peru-where-debate-over-liberation-theology-roiled-the-church-during-his-early-years-as-a-priest-294299"
     ],
     "smithsonian_history": [
       "https://www.smithsonianmag.com/history/this-jewish-community-in-the-caribbean-smuggled-gunpowder-to-the-patriots-during-the-revolution-a-british-admiral-condemned-the-island-as-a-nest-of-vipers-180988740/",
@@ -647,7 +647,7 @@
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
-    "history_other": "aeon",
+    "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
 }
