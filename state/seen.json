@@ -459,7 +459,6 @@
       "https://spectrum.ieee.org/find-my-ai-chip"
     ],
     "ieee_semiconductors": [
-      "https://spectrum.ieee.org/inchfab",
       "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip",
       "https://spectrum.ieee.org/gpu-performance-comparison",
       "https://spectrum.ieee.org/ai-chip-design",
@@ -508,7 +507,8 @@
       "https://spectrum.ieee.org/semiconductor-research",
       "https://spectrum.ieee.org/monazite-rare-earth",
       "https://spectrum.ieee.org/community-college-semiconductors",
-      "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
+      "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+      "https://spectrum.ieee.org/find-my-ai-chip"
     ],
     "ieee_aerospace_bonus": [
       "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
@@ -648,6 +648,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_semiconductors"
   }
 }
