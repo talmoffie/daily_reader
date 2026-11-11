@@ -355,7 +355,6 @@
       "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/"
     ],
     "ieee_aerospace": [
-      "https://spectrum.ieee.org/satellite-communication-laser-radio-transcelestial",
       "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
       "https://spectrum.ieee.org/self-healing-electronics-jupiter",
       "https://spectrum.ieee.org/robert-goddard-leadership",
@@ -404,7 +403,8 @@
       "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight",
       "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
       "https://spectrum.ieee.org/zblan-fiber-optic-cables-iss",
-      "https://spectrum.ieee.org/mmx-mission-to-phobos"
+      "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "https://spectrum.ieee.org/2026-solar-eclipse"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/soft-photonics",
@@ -645,7 +645,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
