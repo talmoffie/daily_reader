@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-11-crystal-boundaries-hydrogen-sensors-hot.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
       "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
       "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
@@ -221,7 +220,8 @@
       "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
       "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
       "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
+      "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+      "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
     ],
     "the_conversation": [
       "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156",
@@ -646,7 +646,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
