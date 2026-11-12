@@ -120,7 +120,6 @@
       "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-08-human-blood-ancient-chinese-art.html",
       "https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html",
       "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html",
       "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html",
@@ -169,7 +168,8 @@
       "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
       "https://phys.org/news/2026-11-introduction-medieval-health-exposed-population.html",
       "https://phys.org/news/2026-11-cop31-leaders-pressure-tackle-climate.html",
-      "https://phys.org/news/2026-11-crystal-boundaries-hydrogen-sensors-hot.html"
+      "https://phys.org/news/2026-11-crystal-boundaries-hydrogen-sensors-hot.html",
+      "https://phys.org/news/2026-11-scooter-users-attribute-inexperience-longitudinal.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
@@ -646,7 +646,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
