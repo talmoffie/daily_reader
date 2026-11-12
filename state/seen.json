@@ -640,14 +640,15 @@
       "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
       "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
       "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-      "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions"
+      "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+      "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_computing"
   }
 }
