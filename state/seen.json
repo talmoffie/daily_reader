@@ -609,7 +609,8 @@
       "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "https://spectrum.ieee.org/engineers-lobbying-congress",
       "https://spectrum.ieee.org/ai-model-welfare",
-      "https://spectrum.ieee.org/ai-small-business-mobile-money-startup"
+      "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "https://spectrum.ieee.org/microcredentials-trustworthy-ai"
     ],
     "aeon": [
       "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
@@ -646,7 +647,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_ai",
     "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_computing"
