@@ -511,7 +511,6 @@
       "https://spectrum.ieee.org/find-my-ai-chip"
     ],
     "ieee_aerospace_bonus": [
-      "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
       "https://spectrum.ieee.org/self-healing-electronics-jupiter",
       "https://spectrum.ieee.org/robert-goddard-leadership",
       "https://spectrum.ieee.org/lunar-lasers-optical-atomic-clock",
@@ -560,7 +559,8 @@
       "https://spectrum.ieee.org/faa-aviation-airwaves",
       "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight",
       "https://spectrum.ieee.org/2026-solar-eclipse",
-      "https://spectrum.ieee.org/mmx-mission-to-phobos"
+      "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -650,6 +650,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "ieee_computing"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
