@@ -1114,3 +1114,4 @@
 2026-11-14T18:37:34Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/why-the-microsoft-365-outage-is-different-and-why-it-takes-so-long-to-restore-email-services-296628
 2026-11-14T21:01:00Z slot=bonus source=ieee_computing degraded=True posted=False url=https://spectrum.ieee.org/europe-digital-id-security-cryptography
 2026-11-14T22:52:49Z slot=bonus result=no_article
+2026-11-15T12:21:00Z slot=university_science_b source=ieee_robotics degraded=True posted=False url=https://spectrum.ieee.org/video-friday-moon-rover-promise
