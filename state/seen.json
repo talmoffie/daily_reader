@@ -352,7 +352,8 @@
       "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
       "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
       "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-      "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/"
+      "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
     ],
     "ieee_aerospace": [
       "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
@@ -650,6 +651,6 @@
     "university_science_b": "ieee_robotics",
     "sat_science": "physorg",
     "history_other": "the_conversation",
-    "bonus": "ieee_aerospace_bonus"
+    "bonus": "quanta_qm"
   }
 }
