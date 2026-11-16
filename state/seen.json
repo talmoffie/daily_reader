@@ -120,7 +120,6 @@
       "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-08-drier-soils-late-summer-prolonged.html",
       "https://phys.org/news/2026-08-clubbing-boost-women-midlife.html",
       "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html",
       "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
@@ -169,7 +168,8 @@
       "https://phys.org/news/2026-11-cop31-leaders-pressure-tackle-climate.html",
       "https://phys.org/news/2026-11-crystal-boundaries-hydrogen-sensors-hot.html",
       "https://phys.org/news/2026-11-scooter-users-attribute-inexperience-longitudinal.html",
-      "https://phys.org/news/2026-11-archaeologists-wealth-status-europe-early.html"
+      "https://phys.org/news/2026-11-archaeologists-wealth-status-europe-early.html",
+      "https://phys.org/news/2026-11-foggy-days-common-southern-australia.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
@@ -648,7 +648,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_aerospace_bonus"
   }
