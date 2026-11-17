@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-11-foggy-days-common-southern-australia.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
       "https://science.nasa.gov/earth/europes-scorching-summer/",
       "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
       "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
@@ -221,7 +220,8 @@
       "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
       "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
       "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
-      "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+      "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/"
     ],
     "the_conversation": [
       "https://theconversation.com/why-you-let-down-your-guard-on-ads-when-scrolling-on-social-media-287129",
@@ -649,7 +649,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "quanta_qm"
   }
