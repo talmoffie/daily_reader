@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-11-link-social-media-veterans-democracy.html"
     ],
     "nasa_news": [
-      "https://science.nasa.gov/earth/europes-scorching-summer/",
       "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
       "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
       "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
@@ -221,7 +220,8 @@
       "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
       "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
       "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-      "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/"
+      "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
     ],
     "the_conversation": [
       "https://theconversation.com/amid-grinding-war-protesting-ukrainians-still-want-their-voices-and-values-heard-at-home-287823",
@@ -650,7 +650,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_robotics",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "the_conversation",
     "bonus": "ieee_computing"
   }
