@@ -1144,3 +1144,4 @@
 2026-11-20T17:30:59Z slot=history_other source=the_conversation degraded=True posted=False url=https://theconversation.com/snl-sister-sketch-nails-the-failures-of-us-healthcare-policy-297022
 2026-11-20T20:53:29Z slot=bonus source=ieee_computing degraded=True posted=False url=https://spectrum.ieee.org/fighting-back-against-deep-fakes
 2026-11-20T20:53:32Z slot=bonus source=ieee_computing degraded=True posted=False url=https://spectrum.ieee.org/it-outage
+2026-11-20T22:52:09Z slot=bonus result=no_article
