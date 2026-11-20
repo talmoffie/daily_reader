@@ -408,8 +408,6 @@
       "https://spectrum.ieee.org/2026-solar-eclipse"
     ],
     "ieee_computing": [
-      "https://spectrum.ieee.org/nsf-x-labs",
-      "https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc",
       "https://spectrum.ieee.org/fractal-os-operating-system-security",
       "https://spectrum.ieee.org/llm-training-energy-saving-trick",
       "https://spectrum.ieee.org/orbital-data-centers-heat",
@@ -457,7 +455,9 @@
       "https://spectrum.ieee.org/national-science-foundation-x-labs",
       "https://spectrum.ieee.org/europe-digital-id-security-cryptography",
       "https://spectrum.ieee.org/connected-cars-security",
-      "https://spectrum.ieee.org/optical-computing-ai"
+      "https://spectrum.ieee.org/optical-computing-ai",
+      "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "https://spectrum.ieee.org/it-outage"
     ],
     "ieee_semiconductors": [
       "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip",
