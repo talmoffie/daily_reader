@@ -356,7 +356,6 @@
       "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
     ],
     "ieee_aerospace": [
-      "https://spectrum.ieee.org/sceye-high-altitude-platform-station",
       "https://spectrum.ieee.org/self-healing-electronics-jupiter",
       "https://spectrum.ieee.org/robert-goddard-leadership",
       "https://content.knowledgehub.wiley.com/direct-to-cell-technology-enabling-satellite-connectivity-for-legacy-devices/",
@@ -405,7 +404,8 @@
       "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
       "https://spectrum.ieee.org/zblan-fiber-optic-cables-iss",
       "https://spectrum.ieee.org/mmx-mission-to-phobos",
-      "https://spectrum.ieee.org/2026-solar-eclipse"
+      "https://spectrum.ieee.org/2026-solar-eclipse",
+      "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone"
     ],
     "ieee_computing": [
       "https://spectrum.ieee.org/fractal-os-operating-system-security",
@@ -650,7 +650,7 @@
   },
   "last_used": {
     "university_science_a": "quanta_cs",
-    "university_science_b": "ieee_robotics",
+    "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
