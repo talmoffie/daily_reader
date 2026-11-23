@@ -120,7 +120,6 @@
       "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
     ],
     "physorg": [
-      "https://phys.org/news/2026-08-dogs-subtle-social.html",
       "https://phys.org/news/2026-08-widespread-ai-tools-harder-craft.html",
       "https://phys.org/news/2026-08-picture-eagle-migrations.html",
       "https://phys.org/news/2026-08-solar-orbiter-ion-magnetic-boundary.html",
@@ -169,7 +168,8 @@
       "https://phys.org/news/2026-11-foggy-days-common-southern-australia.html",
       "https://phys.org/news/2026-11-link-social-media-veterans-democracy.html",
       "https://phys.org/news/2026-11-nanoparticles-struggle-ovarian-cancer-cells.html",
-      "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html"
+      "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html",
+      "https://phys.org/news/2026-11-why-shopping-on-your-phone.html"
     ],
     "nasa_news": [
       "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
@@ -651,7 +651,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "nasa_news",
+    "sat_science": "physorg",
     "history_other": "the_conversation",
     "bonus": "ieee_semiconductors"
   }
