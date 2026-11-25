@@ -645,14 +645,15 @@
       "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
       "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
       "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
-      "https://aeon.co/essays/what-would-parenting-by-ai-look-like"
+      "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+      "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific"
     ]
   },
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
     "sat_science": "physorg",
-    "history_other": "the_conversation",
+    "history_other": "aeon",
     "bonus": "ieee_semiconductors"
   }
 }
