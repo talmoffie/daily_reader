@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-11-functional-traits-asian-covary-climate.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
       "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
       "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
       "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
@@ -221,7 +220,8 @@
       "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
       "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
       "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-      "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/"
+      "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+      "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
     ],
     "the_conversation": [
       "https://theconversation.com/5-lessons-from-20-years-of-climate-surveys-political-party-matters-but-it-doesnt-explain-everything-287056",
@@ -653,7 +653,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "quanta_qm"
   }
