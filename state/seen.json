@@ -513,7 +513,6 @@
       "https://spectrum.ieee.org/sram-memory-z2ram"
     ],
     "ieee_aerospace_bonus": [
-      "https://spectrum.ieee.org/self-healing-electronics-jupiter",
       "https://spectrum.ieee.org/robert-goddard-leadership",
       "https://spectrum.ieee.org/lunar-lasers-optical-atomic-clock",
       "https://spectrum.ieee.org/lunar-base-3d-printing",
@@ -562,7 +561,8 @@
       "https://spectrum.ieee.org/infrastructure-inspection-airship-hylight",
       "https://spectrum.ieee.org/2026-solar-eclipse",
       "https://spectrum.ieee.org/mmx-mission-to-phobos",
-      "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone"
+      "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "https://spectrum.ieee.org/jupiter-europa-clipper-mission-jpl"
     ],
     "ieee_ai": [
       "https://spectrum.ieee.org/gm-ai-design",
@@ -655,6 +655,6 @@
     "university_science_b": "ieee_aerospace",
     "sat_science": "nasa_news",
     "history_other": "the_conversation",
-    "bonus": "quanta_qm"
+    "bonus": "ieee_aerospace_bonus"
   }
 }
