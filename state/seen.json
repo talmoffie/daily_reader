@@ -172,7 +172,6 @@
       "https://phys.org/news/2026-11-dying-star-reveal-hidden.html"
     ],
     "nasa_news": [
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
       "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
       "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
       "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/",
@@ -221,7 +220,8 @@
       "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
       "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
       "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
-      "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
+      "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+      "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
     ],
     "the_conversation": [
       "https://theconversation.com/new-trump-administration-rules-on-federal-science-funding-could-make-american-research-slower-costlier-and-harder-to-share-286430",
@@ -654,7 +654,7 @@
   "last_used": {
     "university_science_a": "quanta_cs",
     "university_science_b": "ieee_aerospace",
-    "sat_science": "physorg",
+    "sat_science": "nasa_news",
     "history_other": "aeon",
     "bonus": "ieee_aerospace_bonus"
   }
